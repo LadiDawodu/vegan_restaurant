@@ -233,7 +233,7 @@ const Body = () => {
         </div>
 
         <div className="restaurantContainer py-8 flex justify-between items-center">
-          {/* Restaurant 1 */}
+          {/* Restaurantcard 1 */}
           <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorTwo p-3 rounded-[10px] mr-4">
             <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
               <img
@@ -265,7 +265,7 @@ const Body = () => {
             </div>
           </div>
 
-          {/* Restaurant 2 */}
+          {/* Restaurantcard 2 */}
           <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorTwo p-3 rounded-[10px] mr-4">
             <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
               <img
@@ -297,7 +297,7 @@ const Body = () => {
             </div>
           </div>
 
-          {/* Restaurant 3 */}
+          {/* Restaurantcard 3 */}
           <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorFour p-3 rounded-[10px] mr-4">
             <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
               <img
@@ -329,7 +329,7 @@ const Body = () => {
             </div>
           </div>
 
-          {/* Restaurant 4 */}
+          {/* Restaurantcard 4 */}
           <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorOne p-3 rounded-[10px]">
             <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
               <img
@@ -362,106 +362,7 @@ const Body = () => {
             </div>
           </div>
 
-          {/* Restaurant 5 */}
-          <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorOne p-3 rounded-[10px]">
-            <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
-              <img
-                src={veganBurgers}
-                alt=""
-                className="w-full h-full object-cover"
-              />
-            </div>
-            <h1 className="restaurantName block text-center font-bold opacity-90 pt-4">
-              Mildreds
-            </h1>
-            <small className="block text-center text-[#808080] font-medium">
-              International Cuisine
-            </small>
-
-            <div className="info mt-5 flex justify-center items-center ">
-              <div className="singleInfo border-x-2 grid px-3">
-                <AiFillStar className="flex mt-auto justify-center items-center" />
-                <h4 className="font-semibold ">3.4</h4>
-              </div>
-
-              <div className="singleInfo border-x-2 grid px-3">
-                <AiFillStar className="flex mt-auto justify-center items-center" />
-                <h4 className="font-semibold ">3.4</h4>
-              </div>
-              <div className="singleInfo border-x-2 grid px-3">
-                <AiFillStar className="flex mt-auto justify-center items-center" />
-                <h4 className="font-semibold ">3.4</h4>
-              </div>
-            </div>
-          </div>
-
-          {/* Restaurant 6 */}
-          <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorOne p-3 rounded-[10px]">
-            <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
-              <img
-                src={veganBurgers}
-                alt=""
-                className="w-full h-full object-cover"
-              />
-            </div>
-            <h1 className="restaurantName block text-center font-bold opacity-90 pt-4">
-              Mildreds
-            </h1>
-            <small className="block text-center text-[#808080] font-medium">
-              International Cuisine
-            </small>
-
-            <div className="info mt-5 flex justify-center items-center ">
-              <div className="singleInfo border-x-2 grid px-3">
-                <AiFillStar className="flex mt-auto justify-center items-center" />
-                <h4 className="font-semibold ">3.4</h4>
-              </div>
-
-              <div className="singleInfo border-x-2 grid px-3">
-                <AiFillStar className="flex mt-auto justify-center items-center" />
-                <h4 className="font-semibold ">3.4</h4>
-              </div>
-              <div className="singleInfo border-x-2 grid px-3">
-                <AiFillStar className="flex mt-auto justify-center items-center" />
-                <h4 className="font-semibold ">3.4</h4>
-              </div>
-            </div>
-          </div>
-
-          {/* Restaurant 4 */}
-          <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorOne p-3 rounded-[10px]">
-            <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
-              <img
-                src={veganBurgers}
-                alt=""
-                className="w-full h-full object-cover"
-              />
-            </div>
-            <h1 className="restaurantName block text-center font-bold opacity-90 pt-4">
-              Mildreds
-            </h1>
-            <small className="block text-center text-[#808080] font-medium">
-              International Cuisine
-            </small>
-
-            <div className="info mt-5 flex justify-center items-center ">
-              <div className="singleInfo border-x-2 grid px-3">
-                <AiFillStar className="flex mt-auto justify-center items-center" />
-                <h4 className="font-semibold ">3.4</h4>
-              </div>
-
-              <div className="singleInfo border-x-2 grid px-3">
-                <AiFillStar className="flex mt-auto justify-center items-center" />
-                <h4 className="font-semibold ">3.4</h4>
-              </div>
-              <div className="singleInfo border-x-2 grid px-3">
-                <AiFillStar className="flex mt-auto justify-center items-center" />
-                <h4 className="font-semibold ">3.4</h4>
-              </div>
-            </div>
-          </div>
-
-          {/* Restaurant 5 */}
+          {/* Restaurantcard 5 */}
           <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorOne p-3 rounded-[10px]">
             <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
               <img
@@ -495,6 +396,105 @@ const Body = () => {
           </div>
 
           {/* Restaurant 6 */}
+          <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorOne p-3 rounded-[10px]">
+            <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
+              <img
+                src={veganBurgers}
+                alt=""
+                className="w-full h-full object-cover"
+              />
+            </div>
+            <h1 className="restaurantName block text-center font-bold opacity-90 pt-4">
+              Mildreds
+            </h1>
+            <small className="block text-center text-[#808080] font-medium">
+              International Cuisine
+            </small>
+
+            <div className="info mt-5 flex justify-center items-center ">
+              <div className="singleInfo border-x-2 grid px-3">
+                <AiFillStar className="flex mt-auto justify-center items-center" />
+                <h4 className="font-semibold ">3.4</h4>
+              </div>
+
+              <div className="singleInfo border-x-2 grid px-3">
+                <AiFillStar className="flex mt-auto justify-center items-center" />
+                <h4 className="font-semibold ">3.4</h4>
+              </div>
+              <div className="singleInfo border-x-2 grid px-3">
+                <AiFillStar className="flex mt-auto justify-center items-center" />
+                <h4 className="font-semibold ">3.4</h4>
+              </div>
+            </div>
+          </div>
+
+          {/* Restaurantcard 4 */}
+          <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorOne p-3 rounded-[10px]">
+            <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
+              <img
+                src={veganBurgers}
+                alt=""
+                className="w-full h-full object-cover"
+              />
+            </div>
+            <h1 className="restaurantName block text-center font-bold opacity-90 pt-4">
+              Mildreds
+            </h1>
+            <small className="block text-center text-[#808080] font-medium">
+              International Cuisine
+            </small>
+
+            <div className="info mt-5 flex justify-center items-center ">
+              <div className="singleInfo border-x-2 grid px-3">
+                <AiFillStar className="flex mt-auto justify-center items-center" />
+                <h4 className="font-semibold ">3.4</h4>
+              </div>
+
+              <div className="singleInfo border-x-2 grid px-3">
+                <AiFillStar className="flex mt-auto justify-center items-center" />
+                <h4 className="font-semibold ">3.4</h4>
+              </div>
+              <div className="singleInfo border-x-2 grid px-3">
+                <AiFillStar className="flex mt-auto justify-center items-center" />
+                <h4 className="font-semibold ">3.4</h4>
+              </div>
+            </div>
+          </div>
+
+          {/* Restaurantcard 5 */}
+          <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorOne p-3 rounded-[10px]">
+            <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
+              <img
+                src={veganBurgers}
+                alt=""
+                className="w-full h-full object-cover"
+              />
+            </div>
+            <h1 className="restaurantName block text-center font-bold opacity-90 pt-4">
+              Mildreds
+            </h1>
+            <small className="block text-center text-[#808080] font-medium">
+              International Cuisine
+            </small>
+
+            <div className="info mt-5 flex justify-center items-center ">
+              <div className="singleInfo border-x-2 grid px-3">
+                <AiFillStar className="flex mt-auto justify-center items-center" />
+                <h4 className="font-semibold ">3.4</h4>
+              </div>
+
+              <div className="singleInfo border-x-2 grid px-3">
+                <AiFillStar className="flex mt-auto justify-center items-center" />
+                <h4 className="font-semibold ">3.4</h4>
+              </div>
+              <div className="singleInfo border-x-2 grid px-3">
+                <AiFillStar className="flex mt-auto justify-center items-center" />
+                <h4 className="font-semibold ">3.4</h4>
+              </div>
+            </div>
+          </div>
+
+          {/* Restaurantcard 6 */}
           <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorOne p-3 rounded-[10px]">
             <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
               <img
