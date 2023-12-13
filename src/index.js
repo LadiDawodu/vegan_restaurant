@@ -1,4 +1,9 @@
-import { response } from "express";
+//import { response } from "express";
+//import { writeFileSync as writeFileSync  } from '';
+import { writeFileSync } from "fs";
+
+("use strict");
+import * as fs from "fs";
 import { client as _client } from "yelp-fusion";
 const client = _client(
   "2n_T11KN6acX6xRKB13dEcY8W_pHKqVYUfMVhmBBLzyEglfzS2cYKPy8enXiIq-igD6iDPJHdEoBhhHx1T6oW7xhKH05axyWeAZnOdN86HqOFFCfX9nU-No2yv04ZXYx"
@@ -7,19 +12,12 @@ const client = _client(
 let allBusinesses = [];
 
 const requestIdleCallback = (response) => {
-  for (const business of response.jsonBody.businesses.slice(0, 10)) {
+  for (const business of response.jsonBody.businesses) {
     allBusinesses.push(business);
   }
-  const writeToFile = async () => {
-    try {
-      const jsonData = JSON.stringify(allBusinesses, null, 2);
-      await FSWatcher.writeFileSync("restuarant.json", jsonData);
-      console.log(`Restaurant data saved to "restaurants.json" file.`);
-    } catch (err) {
-      console.error(`Failed to write data to JSON file:`, err);
-    }
-  };
-  setTimeout(writeToFile, 2000);
+  const jsonData = JSON.stringify(allBusinesses, null, 2);
+  fs.writeFileSync("./src/json/restuarant.json", jsonData);
+  console.log(`Restaurant data saved to "restaurants.json" file.`);
 };
 
 client
@@ -30,12 +28,11 @@ client
     sort_by: "review_count",
     price: "1,2,3,4",
     open_now: "true",
+    limit: 50,
   })
-  .then((response) => {
-    //console.log(response.jsonBody.businesses);
-  })
-  .catch((e) => {
-    console.log(e);
+  .then(requestIdleCallback)
+  .catch((error) => {
+    console.error("Yelp API request failed:", error);
   });
 
 // const express = require("express");
