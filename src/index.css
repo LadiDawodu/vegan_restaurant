@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "Montserrat", sans-serif;
+}
+
+/*  DEFUALT CSS STYLING */
+
+li {
+  opacity: 0.3;
+  cursor: pointer;
+}
+
+body,
+html {
+  background: #000000;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-fixed {
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  z-index: 1000;
+  position: absolute;
+}
+
+.singleRestaurant:hover img {
+  transform: scale(1.1);
+  transition: transform 0.7s ease-in-out;
+}
+.singleRestaurant img {
+  transform: scale(1);
+  transition: transform 0.7s ease-out;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+.restaurantContainer {
+  display: grid;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 7px; /* Adjust the gap value as needed */
+  margin: 0 -20px;
+  grid-template-columns: repeat(4, 1fr);
+  overflow-y: auto;
+}
+
+.singleRestaurant {
+  margin: 10px 20px;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.modal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+  z-index: 1000; /* Ensure it appears above other content */
+}
+
+.modal-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  max-width: 400px;
+  width: 100%;
+}
