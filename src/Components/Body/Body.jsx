@@ -14,7 +14,7 @@ import { BsPlus } from "react-icons/bs";
 import { BsArrowRightShort } from "react-icons/bs";
 import veganBurgers from "../../Assets/veganBurgers.jpg";
 import { AiFillStar } from "react-icons/ai";
-//import restaurantcard from "../RestaurantCard/RestaurantCard";
+import restaurantcard from "../RestaurantCard/RestaurantCard";
 
 const Body = () => {
   return (
@@ -25,6 +25,7 @@ const Body = () => {
           <h1 className="text-[35px] text-titleColor tracking[1px] font-extrabold">
             Find the best Vegan place...
           </h1>
+          <p> eeeeee</p>
           <span className="text-[18px] opacity-70">
             <strong>+350 Vegan restaurants,</strong> the choice is yours
           </span>
