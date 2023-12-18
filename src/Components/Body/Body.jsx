@@ -14,9 +14,30 @@ import { BsPlus } from "react-icons/bs";
 import { BsArrowRightShort } from "react-icons/bs";
 import veganBurgers from "../../Assets/veganBurgers.jpg";
 import { AiFillStar } from "react-icons/ai";
-import restaurantcard from "../RestaurantCard/RestaurantCard";
+import RestaurantCard from "../RestaurantCard/RestaurantCard.jsx";
+import { v4 as uuidv4 } from "uuid";
 
 const Body = () => {
+  const [restaurants, setRestaurants] = useState([]);
+
+  useEffect(() => {
+    const fetchData = async () => {
+      try {
+        const response = await fetch("./src/json/restuarant.json");
+        const data = await response.json();
+        const uniqueKeys = data.map((restaurant) => uuidv4());
+
+        const updateRestaurants = data.map((restaurant, index) => ({
+          ...restaurant,
+          id: uniqueKeys[index],
+        }));
+        setRestaurants(updateRestaurants);
+      } catch (error) {
+        console.error("Error fetching restaurant data:", error);
+      }
+    };
+    fetchData();
+  }, []);
   return (
     <div className=" bg-bodyBg w-full p-16 pl-6 ">
       {/* Title Section */}
@@ -25,10 +46,9 @@ const Body = () => {
           <h1 className="text-[35px] text-titleColor tracking[1px] font-extrabold">
             Find the best Vegan place...
           </h1>
-          <p> eeeeee</p>
-          <span className="text-[18px] opacity-70">
+          {/*<span className="text-[18px] opacity-70">
             <strong>+350 Vegan restaurants,</strong> the choice is yours
-          </span>
+          </span>*/}
         </div>
         <div className="flex items-center justify-between">
           <div className="specials px-4 text-center border-r-2">
@@ -234,6 +254,13 @@ const Body = () => {
 
         <div className="restaurantContainer py-8 flex justify-between items-center">
           {/* Restaurantcard 1 */}
+          {restaurants.map((restaurant) => (
+            <div key={restaurant.id}>
+              <RestaurantCard {...restaurant} />
+            </div>
+          ))}
+
+          {/* Restaurantcard 2
           <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorTwo p-3 rounded-[10px] mr-4">
             <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
               <img
@@ -265,39 +292,7 @@ const Body = () => {
             </div>
           </div>
 
-          {/* Restaurantcard 2 */}
-          <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorTwo p-3 rounded-[10px] mr-4">
-            <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
-              <img
-                src={veganBurgers}
-                alt=""
-                className="w-full h-full object-cover"
-              />
-            </div>
-            <h1 className="restaurantName block text-center font-bold opacity-90 pt-4">
-              Mildreds
-            </h1>
-            <small className="block text-center text-[#808080] font-medium">
-              International Cuisine
-            </small>
-            <div className="info mt-5 flex justify-center items-center ">
-              <div className="singleInfo border-x-2 grid px-3">
-                <AiFillStar className="flex mt-auto justify-center items-center" />
-                <h4 className="font-semibold ">3.4</h4>
-              </div>
-
-              <div className="singleInfo border-x-2 grid px-3">
-                <AiFillStar className="flex mt-auto justify-center items-center" />
-                <h4 className="font-semibold ">3.4</h4>
-              </div>
-              <div className="singleInfo border-x-2 grid px-3">
-                <AiFillStar className="flex mt-auto justify-center items-center" />
-                <h4 className="font-semibold ">3.4</h4>
-              </div>
-            </div>
-          </div>
-
-          {/* Restaurantcard 3 */}
+          * Restaurantcard 3 *
           <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorFour p-3 rounded-[10px] mr-4">
             <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
               <img
@@ -329,7 +324,7 @@ const Body = () => {
             </div>
           </div>
 
-          {/* Restaurantcard 4 */}
+          /* Restaurantcard 4 
           <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorOne p-3 rounded-[10px]">
             <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
               <img
@@ -362,7 +357,7 @@ const Body = () => {
             </div>
           </div>
 
-          {/* Restaurantcard 5 */}
+          /* Restaurantcard 5 
           <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorOne p-3 rounded-[10px]">
             <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
               <img
@@ -395,7 +390,7 @@ const Body = () => {
             </div>
           </div>
 
-          {/* Restaurant 6 */}
+          {/* Restaurant 6 
           <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorOne p-3 rounded-[10px]">
             <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
               <img
@@ -428,7 +423,7 @@ const Body = () => {
             </div>
           </div>
 
-          {/* Restaurantcard 4 */}
+          {/* Restaurantcard 4 
           <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorOne p-3 rounded-[10px]">
             <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
               <img
@@ -461,7 +456,7 @@ const Body = () => {
             </div>
           </div>
 
-          {/* Restaurantcard 5 */}
+          {/* Restaurantcard 5 
           <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorOne p-3 rounded-[10px]">
             <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
               <img
@@ -494,7 +489,7 @@ const Body = () => {
             </div>
           </div>
 
-          {/* Restaurantcard 6 */}
+          {/* Restaurantcard 6 
           <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorOne p-3 rounded-[10px]">
             <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md">
               <img
@@ -525,7 +520,7 @@ const Body = () => {
                 <h4 className="font-semibold ">3.4</h4>
               </div>
             </div>
-          </div>
+          </div> */}
         </div>
       </div>
     </div>

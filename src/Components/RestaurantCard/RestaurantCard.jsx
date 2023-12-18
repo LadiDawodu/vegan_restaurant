@@ -1,47 +1,51 @@
 import React from "react";
 import { AiFillStar } from "react-icons/ai";
 
-const restaurantCard = ({
+const RestaurantCard = ({
   id,
-  reviewCount,
+  name,
+  is_closed,
+  rating,
   categories,
-  location,
-  open_now,
-  image_url,
   price,
+  location,
+  image_url,
 }) => {
   return (
-    <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorOne p-3 rounded-[10px]">
+    <div className="singleRestaurant w-[calc(33.33% - 20px)] bg-colorFour p-3 rounded-[10px]">
       <div className="imgDiv h-[130px] w-full overflow-hidden rounded-md restaurantImage">
-        <img src={image_url} alt={id} className="w-full h-full object-cover" />
+        <img
+          src={image_url}
+          alt={name}
+          className="w-full h-full object-cover"
+        />
       </div>
       <h1 className="restaurantName block text-center font-bold opacity-90 pt-4">
-        {id}
+        {name}
       </h1>
       <div className="info mt-5 flex justify-center items-center ">
         <div className="singleInfo border-x-2 grid px-3">
           <AiFillStar className="flex mt-auto justify-center items-center" />
-          <span className="font-semibold ">{reviewCount}</span>
+          <span className="font-semibold ">{rating}</span>
         </div>
         <p className="priceRange">{price}</p>
       </div>
       <small className="block text-center text-[#808080] font-medium cuisine">
-        {categories}
+        {categories.map((category) => category.title).join(", ")}
       </small>
 
       <div className=" location mt-5 flex justify-center items-center">
         <div className="flex justify-center">
           <p className="text-center block">
-            {location.address1}, {location.city}, {location.postal_code}{" "}
+            {location.display_address.join(", ")}
           </p>
         </div>
       </div>
       <div className="open">
-        <h3>Open</h3>
-        <p>{open_now ? "Open now" : "Closed"}</p>
+        <h3>{is_closed ? "Closed" : "Open"}</h3>
       </div>
     </div>
   );
 };
 
-export default restaurantCard;
+export default RestaurantCard;
