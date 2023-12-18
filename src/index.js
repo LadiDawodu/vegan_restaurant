@@ -1,6 +1,6 @@
-//import { response } from "express";
-//import { writeFileSync as writeFileSync  } from '';
-import { writeFileSync } from "fs";
+// import { response } from "express";
+// import { writeFileSync as writeFileSync  } from '';
+// import { writeFileSync } from "fs";
 
 ("use strict");
 import * as fs from "fs";
@@ -25,7 +25,7 @@ client
     location: "London",
     term: "restaurant",
     categories: "vegan",
-    sort_by: "review_count",
+    sort_by: "rating",
     price: "1,2,3,4",
     open_now: "true",
     limit: 50,
