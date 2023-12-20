@@ -7,15 +7,27 @@ import veganiseLogo from "../../Assets/veganiseLogo.jpeg";
 
 import RegistrationModal from "../Registration/RegistrationModal.jsx";
 import LoginModal from "../LoginModal/LoginModal.jsx";
+import restaurantData from "../../json/restuarant.json";
 
 const Navbar = ({ navigate }) => {
   const [searchQuery, setSearchQuery] = useState("");
+  const [searchResults, setSearchResults] = useState([]);
+
   const [isRegistrationOpen, setIsRegistrationOpen] = useState(false);
 
   const [isLoginOpen, setLoginOpen] = useState(false);
 
   const toggleRegistrationModal = () => {
     setIsRegistrationOpen(!isRegistrationOpen);
+  };
+
+  const handleSearch = () => {
+    const results = restaurantData.filter(
+      (item) => item.name.toLowerCase().includes(searchQuery.toLowerCase()),
+      console.log(typeof searchQuery)
+    );
+
+    setSearchResults(results);
   };
 
   const toggleLoginModal = () => {
@@ -79,12 +91,26 @@ const Navbar = ({ navigate }) => {
                       placeholder="What's your craving?"
                       id="searchbar"
                       value={searchQuery}
-                      onChange={(e) => setSearchQuery(e.target.value)}
+                      onChange={(e) => {
+                        setSearchQuery(e.target.value);
+                        handleSearch();
+                      }}
                     />
                     <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                       <AiOutlineSearch className="h-5 w-5 text-colorTwo/80" />
                     </div>
                   </div>
+                  {searchResults.length > 0 && (
+                    <div className="absolute z-10 mt-2 w-96 bg-white rounded-md shadow-lg ring-1 ring-black ring-opacity-5">
+                      {searchResults.map((result) => (
+                        <div key={result.id} className="py-2 px-4">
+                          {/* Render your search result item content here */}
+                          <p>{result.name}</p>
+                          <p className="text-gray-500">{result.description}</p>
+                        </div>
+                      ))}
+                    </div>
+                  )}
                 </div>
               </div>
 
