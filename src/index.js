@@ -10,7 +10,6 @@ const client = _client(
 );
 
 let allBusinesses = [];
-const 
 
 const requestIdleCallback = (response) => {
   for (const business of response.jsonBody.businesses) {
