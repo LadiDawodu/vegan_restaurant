@@ -1,4 +1,4 @@
-import React, { Fragment, useState } from "react";
+import React, { Fragment, useState, useEffect } from "react";
 import { GiHamburger } from "react-icons/gi";
 import { AiOutlineSearch, AiOutlineAppstoreAdd } from "react-icons/ai";
 import { Disclosure, Menu, Transition } from "@headlessui/react";
@@ -8,6 +8,7 @@ import veganiseLogo from "../../Assets/veganiseLogo.jpeg";
 import RegistrationModal from "../Registration/RegistrationModal.jsx";
 import LoginModal from "../LoginModal/LoginModal.jsx";
 import restaurantData from "../../json/restuarant.json";
+import debounce from "lodash.debounce";
 
 const Navbar = ({ navigate }) => {
   const [searchQuery, setSearchQuery] = useState("");
@@ -20,24 +21,50 @@ const Navbar = ({ navigate }) => {
   const toggleRegistrationModal = () => {
     setIsRegistrationOpen(!isRegistrationOpen);
   };
+  // useEffect(() => {
+  //   // This effect will be triggered whenever searchResults changes
+  //   // Update the dropdown menu logic here
+  //   console.log("Updated searchResults:", searchResults);
+  // }, [searchResults]);
 
-  const handleSearch = () => {
-    const results = restaurantData.filter(
-      (item) => item.name.toLowerCase().includes(searchQuery.toLowerCase()),
-      console.log(typeof searchQuery)
+  const handleSearch = (query) => {
+    console.log("Search Query:", query);
+
+    if (query.trim() === "") {
+      setSearchResults([]); // Clear results if the search query is empty
+      return;
+    }
+
+    const results = restaurantData.filter((item) =>
+      item.name.toLowerCase().includes(query.toLowerCase())
     );
+
+    console.log("search results:", results);
 
     setSearchResults(results);
   };
+  const debouncedHandleSearch = debounce(handleSearch, 100);
 
   const toggleLoginModal = () => {
     setLoginOpen(!isLoginOpen);
   };
+
+  const [top, setTop] = useState(true);
+
+  useEffect(() => {
+    const scrollHandler = () => {
+      window.scrollY > 10 ? setTop(false) : setTop(true);
+    };
+    window.addEventListener("scroll", scrollHandler);
+    return () => window.removeEventListener("scroll", scrollHandler);
+  }, [top]);
+
+  const navbarClass = top ? "nav" : "nav with-box-shadow";
   return (
-    <Disclosure as="nav" className="bg-bodyBg">
+    <Disclosure as="nav" className={`bg-bodyBg ${navbarClass}`}>
       {({ open }) => (
         <>
-          <div className=" mr-10 max-w-full sm:px-6 lg:px-8">
+          <div className=" max-w-full sm:px-6 lg:px-8">
             <div className="relative flex h-20 items-center justify-between">
               <div className="absolute inset-y-0 left-0 flex items-center sm:hidden">
                 {/* Mobile menu button */}
@@ -52,7 +79,7 @@ const Navbar = ({ navigate }) => {
                 </Disclosure.Button>
               </div>
               {/* VEGAN LOGO */}
-              <div className=" pl-1 flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
+              <div className=" flex flex-1 items-center justify-center sm:items-stretch sm:justify-start ">
                 <div className="flex flex-shrink-0 items-center">
                   <img
                     className="h-10 w-auto bg-colorTwo"
@@ -64,22 +91,20 @@ const Navbar = ({ navigate }) => {
                   </h1>
                 </div>
                 <div className=" hidden ml-20 sm:ml-6 sm:block">
-                  <div className=" flex justify-center">
-                    {/* NAV ITEMS */}
-                    <div className="flex space-x-4 mt-2">
-                      <a
-                        href="#"
-                        className="text-gray-600 transition-colors duration-700 ease-in-out hover:bg-[#808000] hover:text-white rounded-full px-3 py-2 text-sm font-medium border-2 border-colorTwo/75"
-                      >
-                        About
-                      </a>
-                      <a
-                        href="#"
-                        className="text-gray-600 transition-colors duration-700 ease-in-out hover:bg-[#808000] hover:text-white rounded-full px-3 py-2 text-sm font-medium border-2 border-colorTwo/75"
-                      >
-                        Mission
-                      </a>
-                    </div>
+                  {/* NAV ITEMS */}
+                  <div className="flex space-x-4 mt-2 items-center">
+                    <a
+                      href="#"
+                      className="text-gray-600 transition-colors duration-700 ease-in-out hover:bg-[#808000] hover:text-white rounded-full px-3 py-2 text-sm font-medium border-2 border-colorTwo/75"
+                    >
+                      About
+                    </a>
+                    <a
+                      href="#"
+                      className="text-gray-600 transition-colors duration-700 ease-in-out hover:bg-[#808000] hover:text-white rounded-full px-3 py-2 text-sm font-medium border-2 border-colorTwo/75"
+                    >
+                      Mission
+                    </a>
                   </div>
                 </div>
                 {/* search bar */}
@@ -93,7 +118,8 @@ const Navbar = ({ navigate }) => {
                       value={searchQuery}
                       onChange={(e) => {
                         setSearchQuery(e.target.value);
-                        handleSearch();
+
+                        debouncedHandleSearch(e.target.value);
                       }}
                     />
                     <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
@@ -106,7 +132,6 @@ const Navbar = ({ navigate }) => {
                         <div key={result.id} className="py-2 px-4">
                           {/* Render your search result item content here */}
                           <p>{result.name}</p>
-                          <p className="text-gray-500">{result.description}</p>
                         </div>
                       ))}
                     </div>
@@ -146,46 +171,6 @@ const Navbar = ({ navigate }) => {
                     />
                   )}
                 </div>
-              </div>
-
-              <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0 mt-2">
-                <button
-                  type="button"
-                  className="relative rounded-full bg-colorTwo p-1 text-gray-600 hover:text-white focus:outline-none focus:ring-4 focus:ring-white focus:ring-offset-3 focus:ring-offset-gray-800"
-                >
-                  <span className="absolute -inset-1.5" />
-                  <span className="sr-only">View notifications</span>
-                  <BellIcon className="h-6 w-6" aria-hidden="true" />
-                </button>
-
-                {/* Profile dropdown */}
-                <Menu as="div" className="relative ml-3">
-                  <div>
-                    <Menu.Button className="relative flex rounded-full bg-gray-800 text-sm focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800">
-                      <span className="absolute -inset-1.5" />
-                      <span className="sr-only">Open user menu</span>
-                      {/* Replace the image source with your profile image */}
-                      <img
-                        className="h-8 w-8 rounded-full"
-                        src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
-                        alt=""
-                      />
-                    </Menu.Button>
-                  </div>
-                  <Transition
-                    as={Fragment}
-                    enter="transition ease-out duration-100"
-                    enterFrom="transform opacity-0 scale-95"
-                    enterTo="transform opacity-100 scale-100"
-                    leave="transition ease-in duration-75"
-                    leaveFrom="transform opacity-100 scale-100"
-                    leaveTo="transform opacity-0 scale-95"
-                  >
-                    <Menu.Items className="absolute right-0 z-10 mt-2 w-48 origin-top-right rounded-md bg-white py-1 shadow-lg ring-1 ring-black ring-opacity-5 focus:outline-none">
-                      {/* Profile dropdown items go here */}
-                    </Menu.Items>
-                  </Transition>
-                </Menu>
               </div>
             </div>
           </div>

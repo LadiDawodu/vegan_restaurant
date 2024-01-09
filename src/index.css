@@ -1,8 +1,10 @@
-@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;800;900&display=swap");
+@charset "UTF-8";
 
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700;800;900&display=swap");
 
 :root {
   font-family: "Montserrat", sans-serif;
@@ -17,18 +19,29 @@ li {
 
 body,
 html {
-  background: #000000;
+  background: #fff;
   margin: 0;
   padding: 0;
 }
 
-.navbar-fixed {
+.bodyClass {
+  margin-top: 6rem;
+  margin-left: 25rem;
+  margin-right: 25rem;
+}
+
+.nav {
   top: 0;
   left: 0;
   right: 0;
   width: 100%;
   z-index: 1000;
-  position: absolute;
+  position: fixed;
+}
+
+.with-box-shadow {
+  box-shadow: 0 9px 6px -1px rgba(3, 3, 3, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
 }
 
 .singleRestaurant:hover img {
