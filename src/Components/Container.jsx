@@ -9,7 +9,6 @@ const Container = () => {
     w-full
      rounded-sm overflow-hidden"
     >
-      <SideMenu />
       <Body />
     </div>
   );

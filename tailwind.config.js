@@ -2,18 +2,21 @@
 export default {
   content: [
     "./components/**/*.{html,js}",
-    "./src/**/*.{html,js,jsx}",
+    "./src/**/*.{html,js,jsx,ts,tsx}",
     "./index.html",
   ],
   theme: {
     extend: {
       flexBasis: {
-        30: "30%", //SideMenu
-        90: "80%", //The Body
+        30: "30%",
+        90: "80%",
+      },
+      spacing: {
+        128: "24rem",
       },
 
       height: {
-        90: "90%",
+        90: "90%;",
       },
 
       colors: {
