@@ -7,7 +7,7 @@ import veganiseLogo from "../../Assets/veganiseLogo.jpeg";
 
 import RegistrationModal from "../Registration/RegistrationModal.jsx";
 import LoginModal from "../LoginModal/LoginModal.jsx";
-import restaurantData from "../../json/restuarant.json";
+import restaurantData from "../../json/restaurant.json";
 import debounce from "lodash.debounce";
 
 const Navbar = ({ navigate }) => {
@@ -145,7 +145,7 @@ const Navbar = ({ navigate }) => {
                     onClick={toggleRegistrationModal}
                     className="transition-colors hover:bg-[#808000] duration-700 ease-in-out text-gray-600  hover:text-white rounded-full px-3 py-2 text-sm font-medium border-2 cursor-pointer border-colorTwo/75"
                   >
-                    Sign Up
+                    Sign up
                   </button>
                   {isRegistrationOpen && (
                     <RegistrationModal
@@ -161,7 +161,7 @@ const Navbar = ({ navigate }) => {
                     onClick={toggleLoginModal}
                     className="login transition-colors hover:bg-[#808000] duration-700 ease-in-out cursor-pointer text-gray-600 hover:text-white text-sm font-medium py-2 px-3 rounded-full border-2 border-colorTwo/75  "
                   >
-                    Login In
+                    Log in
                   </button>
                   {isLoginOpen && (
                     <LoginModal

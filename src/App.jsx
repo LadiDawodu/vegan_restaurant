@@ -10,6 +10,7 @@ import Body from "./Components/Body/Body.jsx";
 import SideMenu from "./Components/SideMenu/SideMenu.jsx";
 import Navbar from "./Components/Navbar/Navbar.jsx";
 import { auth } from "../src/js/firebase.jsx";
+import FilterPage from "./Components/Filter/filterPage.jsx";
 
 function App() {
   const [authenticated, setAuthenticated] = useState(null);
@@ -38,6 +39,8 @@ function App() {
     <Router>
       <div className="flex items-center justify-center">
         <Navbar authenticated={authenticated} />
+
+        <FilterPage />
 
         <Routes>
           <Route path="/" element={<Container />}>
