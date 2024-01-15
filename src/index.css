@@ -26,8 +26,11 @@ html {
 
 .bodyClass {
   margin-top: 6rem;
-  margin-left: 25rem;
   margin-right: 25rem;
+}
+
+.filterPage {
+  margin-right: 22rem;
 }
 
 .nav {

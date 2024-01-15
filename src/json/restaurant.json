@@ -1,0 +1,6697 @@
+[
+  {
+    "id": "ZTSM33QFv3pwxtSJp8Y02g",
+    "alias": "farmacy-london",
+    "name": "Farmacy",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/jnKynOMiciPrqj3tnOAhQA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/farmacy-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 78,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.515446,
+      "longitude": -0.1926381
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "74 Westbourne Grove",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W2 5SH",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "74 Westbourne Grove",
+        "London W2 5SH",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442072210705",
+    "display_phone": "+44 20 7221 0705",
+    "distance": 3935.772362219857
+  },
+  {
+    "id": "rH505Aa2ptYdU_K1NIkMzA",
+    "alias": "vantra-london-2",
+    "name": "Vantra",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/LlSefS2p8dqtZI5TySGA_g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/vantra-london-2?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 16,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      },
+      {
+        "alias": "raw_food",
+        "title": "Live/Raw Food"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.5107003,
+      "longitude": -0.1340457
+    },
+    "transactions": [],
+    "location": {
+      "address1": "5 Wardour Street",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W1D 6PD",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "5 Wardour Street",
+        "London W1D 6PD",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442072875222",
+    "display_phone": "+44 20 7287 5222",
+    "distance": 282.2514526909888
+  },
+  {
+    "id": "DnBY9gukSdy42EoJtBhdaQ",
+    "alias": "tibits-london-3",
+    "name": "Tibits",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/isQswwTyWIL-ZgH3SBtM0A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/tibits-london-3?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 166,
+    "categories": [
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.511302947998,
+      "longitude": -0.139624997973442
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "12-14 Heddon Street",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W1B 4DA",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "12-14 Heddon Street",
+        "London W1B 4DA",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442077456146",
+    "display_phone": "+44 20 7745 6146",
+    "distance": 317.52884645758843
+  },
+  {
+    "id": "bXo_3uLhacyeGJ0iF743PQ",
+    "alias": "mildreds-london",
+    "name": "Mildreds",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QMCQui-OSTH0r1qquz5u4w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/mildreds-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 324,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "salad",
+        "title": "Salad"
+      },
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5130233764648,
+      "longitude": -0.136484995484352
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "45 Lexington Street",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W1F 9AN",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "45 Lexington Street",
+        "London W1F 9AN",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442074941634",
+    "display_phone": "+44 20 7494 1634",
+    "distance": 33.5812001663642
+  },
+  {
+    "id": "2C9EoktEUIMwfzj71n26ag",
+    "alias": "mildreds-london-2",
+    "name": "Mildreds",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/amRH3S_jOsUtxUR4jzvDkA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/mildreds-london-2?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 42,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.54048,
+      "longitude": -0.144592
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "9 Jamestown Road",
+      "address2": "Camden",
+      "address3": "",
+      "city": "London",
+      "zip_code": "NW1 7BW",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "9 Jamestown Road",
+        "Camden",
+        "London NW1 7BW",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442074824200",
+    "display_phone": "+44 20 7482 4200",
+    "distance": 3114.3548214706675
+  },
+  {
+    "id": "RsitHVcTNdEx7G-xNJCcag",
+    "alias": "comptoir-libanais-london-11",
+    "name": "Comptoir Libanais",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/IsZG8G59VUmNZCHPBIqC7Q/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/comptoir-libanais-london-11?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 8,
+    "categories": [
+      {
+        "alias": "lebanese",
+        "title": "Lebanese"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.514219,
+      "longitude": -0.137012
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "52 Poland Street",
+      "address2": null,
+      "address3": "",
+      "city": "London",
+      "zip_code": "W1F 7NQ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "52 Poland Street",
+        "London W1F 7NQ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442074344335",
+    "display_phone": "+44 20 7434 4335",
+    "distance": 149.02206039685296
+  },
+  {
+    "id": "u2T6ZhYb_gNCgNvq_1uJtA",
+    "alias": "itadaki-zen-london",
+    "name": "Itadaki Zen",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mh_iPDdlaELGb96dbCYEKg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/itadaki-zen-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 53,
+    "categories": [
+      {
+        "alias": "japanese",
+        "title": "Japanese"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5296729,
+      "longitude": -0.116012
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "139 King's Cross Road",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "WC1X 9BJ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "139 King's Cross Road",
+        "London WC1X 9BJ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442072783573",
+    "display_phone": "+44 20 7278 3573",
+    "distance": 2320.0918730101694
+  },
+  {
+    "id": "5u3SgBbNRJAPfzzffLD42w",
+    "alias": "ethos-london-4",
+    "name": "Ethos",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/txMSmSxT0-HDqZ9Yqe4MjQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/ethos-london-4?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 52,
+    "categories": [
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.51638,
+      "longitude": -0.1390968
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "48 Eastcastle Street",
+      "address2": null,
+      "address3": "",
+      "city": "London",
+      "zip_code": "W1W 8DX",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "48 Eastcastle Street",
+        "London W1W 8DX",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442035811538",
+    "display_phone": "+44 20 3581 1538",
+    "distance": 439.6082699226165
+  },
+  {
+    "id": "Sfce_BrhgsbiqVJni0LR1w",
+    "alias": "korean-bbq-and-vegan-london-2",
+    "name": "Korean Bbq and Vegan",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3-AnDgGpEyIOwpX1OZkjrg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/korean-bbq-and-vegan-london-2?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 6,
+    "categories": [
+      {
+        "alias": "halal",
+        "title": "Halal"
+      },
+      {
+        "alias": "korean",
+        "title": "Korean"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 51.522209857243055,
+      "longitude": -0.0927523304203648
+    },
+    "transactions": [],
+    "location": {
+      "address1": "107 Whitecross Street",
+      "address2": "KOREAN BBQ & VEGAN",
+      "address3": "LONDON",
+      "city": "London",
+      "zip_code": "EC1Y 8JD",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "107 Whitecross Street",
+        "KOREAN BBQ & VEGAN",
+        "LONDON",
+        "London EC1Y 8JD",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442072565179",
+    "display_phone": "+44 20 7256 5179",
+    "distance": 3163.7399223798334
+  },
+  {
+    "id": "3KY3-PR4JG-aZe8A7fhuNA",
+    "alias": "tibits-london-7",
+    "name": "Tibits",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-JXhuHv_5M8zjl8bJLpxWg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/tibits-london-7?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 14,
+    "categories": [
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "beerbar",
+        "title": "Beer Bar"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.506317,
+      "longitude": -0.101547
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "124 Southwark Street",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "SE1 0SW",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "124 Southwark Street",
+        "London SE1 0SW",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442072028370",
+    "display_phone": "+44 20 7202 8370",
+    "distance": 2493.8976970723884
+  },
+  {
+    "id": "6Qqb-xU4ERH4nsHWKtthLg",
+    "alias": "wulf-and-lamb-london",
+    "name": "Wulf and lamb",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uwwAdSlMwyVKUmfBqTyGfw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/wulf-and-lamb-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 38,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.4939041,
+      "longitude": -0.1586825
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "243 Pavilion Road",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "SW1X 0BP",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "243 Pavilion Road",
+        "London SW1X 0BP",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442039485999",
+    "display_phone": "+44 20 3948 5999",
+    "distance": 2665.7876995080346
+  },
+  {
+    "id": "rLjRU-MRorU36kc2Xq0zSQ",
+    "alias": "squirrel-london",
+    "name": "Squirrel",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2U06D8OEOdbINHjYi4YP7g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/squirrel-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 25,
+    "categories": [
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.4939502,
+      "longitude": -0.1755847
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "11 Harrington Road",
+      "address2": "South Kensington",
+      "address3": null,
+      "city": "London",
+      "zip_code": "SW7 3ES",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "11 Harrington Road",
+        "South Kensington",
+        "London SW7 3ES",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442070950377",
+    "display_phone": "+44 20 7095 0377",
+    "distance": 3451.2928090720984
+  },
+  {
+    "id": "5rGACVUL-kFwJt0LMgHRBA",
+    "alias": "bonnington-café-london-2",
+    "name": "Bonnington Café",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/iOPQu-EX203NNPJSrTmptQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bonnington-caf%C3%A9-london-2?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 49,
+    "categories": [
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.4846229,
+      "longitude": -0.1200278
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "11 Vauxhall Grove",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "SW8 1TD",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "11 Vauxhall Grove",
+        "London SW8 1TD",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 3330.111282633263
+  },
+  {
+    "id": "2Xz4uXtE95S5yrGZeBehkQ",
+    "alias": "highstone-brew-london",
+    "name": "Highstone Brew",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ixDEQ6EsnYk4PogCiGo7gg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/highstone-brew-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.5412739,
+      "longitude": -0.1388721
+    },
+    "transactions": [],
+    "location": {
+      "address1": "90 Camden Road",
+      "address2": "King's Cross",
+      "address3": null,
+      "city": "London",
+      "zip_code": "NW1 9EA",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "90 Camden Road",
+        "King's Cross",
+        "London NW1 9EA",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442074824076",
+    "display_phone": "+44 20 7482 4076",
+    "distance": 3157.417526687864
+  },
+  {
+    "id": "7-KtpNmkFBSPd4r6MhVzDA",
+    "alias": "mildreds-london-3",
+    "name": "Mildreds",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HeJn7AO6ZC5chcP4gOWu1A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/mildreds-london-3?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 45,
+    "categories": [
+      {
+        "alias": "salad",
+        "title": "Salad"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5313571869762,
+      "longitude": -0.117220487906411
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "200 Pentonville Road",
+      "address2": "Kings Cross",
+      "address3": "",
+      "city": "London",
+      "zip_code": "N1 9JP",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "200 Pentonville Road",
+        "Kings Cross",
+        "London N1 9JP",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442072789422",
+    "display_phone": "+44 20 7278 9422",
+    "distance": 2424.8872917562717
+  },
+  {
+    "id": "R4yaSL1PT2mpt5yNX2U7AA",
+    "alias": "222-veggie-vegan-london",
+    "name": "222 Veggie Vegan",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wM0KCbnSCePgQs_t-nPDQA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/222-veggie-vegan-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 93,
+    "categories": [
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.486007,
+      "longitude": -0.2030859
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "222 North End Road",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W14 9NU",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "222 North End Road",
+        "London W14 9NU",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442073812322",
+    "display_phone": "+44 20 7381 2322",
+    "distance": 5525.667977838276
+  },
+  {
+    "id": "TGOBwzRyz0NOm_Pk8b6F3Q",
+    "alias": "by-chloe-covent-garden-london",
+    "name": "by CHLOE. Covent Garden",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0-AB20Vw6_4DlE98kMwd2A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/by-chloe-covent-garden-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 44,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.51353,
+      "longitude": -0.12051
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "Drury House",
+      "address2": "34-43 Russell Street",
+      "address3": "",
+      "city": "London",
+      "zip_code": "WC2E 8BE",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Drury House",
+        "34-43 Russell Street",
+        "London WC2E 8BE",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 1082.4029904632318
+  },
+  {
+    "id": "2hWE0g0lCJt97WQY4o2Q-g",
+    "alias": "pilpel-london",
+    "name": "Pilpel",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/2RdYHsmz8LWljAjm4-CUfw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/pilpel-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 57,
+    "categories": [
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "falafel",
+        "title": "Falafel"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5189556,
+      "longitude": -0.0772774
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "38 Brushfield Street",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "E1 6AT",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "38 Brushfield Street",
+        "London E1 6AT",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442072470146",
+    "display_phone": "+44 20 7247 0146",
+    "distance": 4116.651299864507
+  },
+  {
+    "id": "RUT0M67W2afsNoIqV3Y0uQ",
+    "alias": "tai-buffet-london-7",
+    "name": "Tai Buffet",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/NQW0kVRzR6PqqBH4aWEfqg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/tai-buffet-london-7?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 6,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "chinese",
+        "title": "Chinese"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.504588,
+      "longitude": -0.2203058
+    },
+    "transactions": [],
+    "location": {
+      "address1": "86 Uxbridge Road",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W12 8LR",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "86 Uxbridge Road",
+        "London W12 8LR",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447850663328",
+    "display_phone": "+44 7850 663328",
+    "distance": 5920.194639696587
+  },
+  {
+    "id": "EwMueBKJ9iWKfWEzO4DpIw",
+    "alias": "manna-london-london",
+    "name": "Manna London",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1hajktP3eKqnzUBDSwdMAw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/manna-london-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 63,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5419069,
+      "longitude": -0.1576059
+    },
+    "transactions": [],
+    "price": "£££",
+    "location": {
+      "address1": "4 Erskine Road",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "NW3 3AJ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "4 Erskine Road",
+        "London NW3 3AJ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447788835892",
+    "display_phone": "+44 7788 835892",
+    "distance": 3553.1799023982676
+  },
+  {
+    "id": "yIcOsVlt5UzfGJuNNsPQdg",
+    "alias": "honeymoon-london-3",
+    "name": "Honeymoon",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/dULXVEFzyx2SeWmOjToFmA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/honeymoon-london-3?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "bars",
+        "title": "Bars"
+      },
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.5320755,
+      "longitude": -0.0588904
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "458 Hackney Road",
+      "address2": null,
+      "address3": "",
+      "city": "London",
+      "zip_code": "E2 9EG",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "458 Hackney Road",
+        "London E2 9EG",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442070336806",
+    "display_phone": "+44 20 7033 6806",
+    "distance": 5742.356995493747
+  },
+  {
+    "id": "1oShlXeGjTrfD-A1I_iHBw",
+    "alias": "the-spread-eagle-london-6",
+    "name": "The Spread Eagle",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tCSCLrGSwWtO5F7k-y5JLw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-spread-eagle-london-6?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 9,
+    "categories": [
+      {
+        "alias": "pubs",
+        "title": "Pubs"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5486131491202,
+      "longitude": -0.0408179463767122
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "224 Homerton High Street",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "E9 6AS",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "224 Homerton High Street",
+        "London E9 6AS",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442089850400",
+    "display_phone": "+44 20 8985 0400",
+    "distance": 7685.607487294509
+  },
+  {
+    "id": "_cFi12kqA-W05spZMOeJ4Q",
+    "alias": "wave-we-are-vegan-everything-london",
+    "name": "WAVE - We Are Vegan Everything",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/mvSIHeo7Sv6iHEkMH50U4w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/wave-we-are-vegan-everything-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 4,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.54899,
+      "longitude": -0.05502
+    },
+    "transactions": [],
+    "location": {
+      "address1": "11 Dispensary Lane",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "E8 1FT",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "11 Dispensary Lane",
+        "London E8 1FT",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447734253401",
+    "display_phone": "+44 7734 253401",
+    "distance": 6901.528012195119
+  },
+  {
+    "id": "uHEGftH6JSPt4T9Dv7lKCg",
+    "alias": "woodlands-london",
+    "name": "Woodlands",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/laT-028adaP0_gNTMtBmtQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/woodlands-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 88,
+    "categories": [
+      {
+        "alias": "indpak",
+        "title": "Indian"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5180611,
+      "longitude": -0.151165
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "77 Marylebone Lane",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W1U 2PS",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "77 Marylebone Lane",
+        "London W1U 2PS",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442074863862",
+    "display_phone": "+44 20 7486 3862",
+    "distance": 1195.4786726931354
+  },
+  {
+    "id": "dUjqjY7GxJFQ9bzlu4HEgw",
+    "alias": "loving-hut-archway-london",
+    "name": "Loving Hut Archway",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/T3Uohbsrsv2XDJWEePpUig/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/loving-hut-archway-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 25,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5649508868981,
+      "longitude": -0.133335962891579
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "669 Holloway Rd",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "N19 5SE",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "669 Holloway Rd",
+        "London N19 5SE",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442072818989",
+    "display_phone": "+44 20 7281 8989",
+    "distance": 5786.707755122665
+  },
+  {
+    "id": "z3xc2E24kl-kWjEG3Gi_3w",
+    "alias": "my-village-café-london-2",
+    "name": "My Village Café",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/NlY2udoioduPnC08qzd4Ww/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/my-village-caf%C3%A9-london-2?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 53,
+    "categories": [
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5427549,
+      "longitude": -0.1476913
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "37 Chalk Farm Road",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "NW1 8AJ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "37 Chalk Farm Road",
+        "London NW1 8AJ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442034892293",
+    "display_phone": "+44 20 3489 2293",
+    "distance": 3375.0703270760973
+  },
+  {
+    "id": "9jlhFqBRxlvdtDqfeCciEA",
+    "alias": "the-veggie-table-london",
+    "name": "The Veggie Table",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_QOS6oipwSPX8eFDEEy1kw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-veggie-table-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 29,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.505092,
+      "longitude": -0.090092
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "8 Southwark Street",
+      "address2": "Borough Market",
+      "address3": "",
+      "city": "London",
+      "zip_code": "SE1 1TL",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "8 Southwark Street",
+        "Borough Market",
+        "London SE1 1TL",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442034174542",
+    "display_phone": "+44 20 3417 4542",
+    "distance": 3235.7213096401592
+  },
+  {
+    "id": "1_nby6Ob2JH8kaOvVdk7_Q",
+    "alias": "wild-food-cafe-london",
+    "name": "Wild Food Cafe",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/E4K5nqiAl6jEiu2AyIsPrA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/wild-food-cafe-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 79,
+    "categories": [
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "raw_food",
+        "title": "Live/Raw Food"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5144749136901,
+      "longitude": -0.126376003026962
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "1st Floor",
+      "address2": "14 Neals Yard",
+      "address3": "Covent Garden",
+      "city": "London",
+      "zip_code": "WC2H 9DP",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "1st Floor",
+        "14 Neals Yard",
+        "Covent Garden",
+        "London WC2H 9DP",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442074192014",
+    "display_phone": "+44 20 7419 2014",
+    "distance": 686.1514295091033
+  },
+  {
+    "id": "7Z8CbrFhK0kv1EZxIEveXw",
+    "alias": "eat-chay-london",
+    "name": "Eat Chay",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/i-0XqpSCukfw5_1mYmFe9g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/eat-chay-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vietnamese",
+        "title": "Vietnamese"
+      },
+      {
+        "alias": "korean",
+        "title": "Korean"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5235,
+      "longitude": -0.07678
+    },
+    "transactions": [],
+    "location": {
+      "address1": "Unit 48 Boxpark Shoreditch",
+      "address2": "2-10 Bethnal Green Road",
+      "address3": "",
+      "city": "London",
+      "zip_code": "E1 6GY",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Unit 48 Boxpark Shoreditch",
+        "2-10 Bethnal Green Road",
+        "London E1 6GY",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447787379192",
+    "display_phone": "+44 7787 379192",
+    "distance": 4293.1479094223805
+  },
+  {
+    "id": "vAiqG2dTHlG0kKOCMYEBsg",
+    "alias": "cafe-van-gogh-camberwell",
+    "name": "Cafe Van Gogh",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/4YLW_q6KycyWyiSfmtnULg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/cafe-van-gogh-camberwell?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 9,
+    "categories": [
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.4777129,
+      "longitude": -0.112505
+    },
+    "transactions": [],
+    "location": {
+      "address1": "88-96 Brixton Road",
+      "address2": "",
+      "address3": null,
+      "city": "Camberwell",
+      "zip_code": "SW9 6BH",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "88-96 Brixton Road",
+        "Camberwell SW9 6BH",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447546966554",
+    "display_phone": "+44 7546 966554",
+    "distance": 4240.311748101663
+  },
+  {
+    "id": "EBJG1t9MGidxH8bp5Hpm8Q",
+    "alias": "home-london-10",
+    "name": "Home",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/U8f81kqQA0s-SHkR0YCPeQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/home-london-10?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 4,
+    "categories": [
+      {
+        "alias": "laotian",
+        "title": "Laotian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "thai",
+        "title": "Thai"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.5235110717839,
+      "longitude": -0.0763940066099167
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "2 Bethnal Green Road",
+      "address2": "East London",
+      "address3": "",
+      "city": "London",
+      "zip_code": "E1 6GY",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "2 Bethnal Green Road",
+        "East London",
+        "London E1 6GY",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 4287.210215035563
+  },
+  {
+    "id": "f8s8dT9Rm4359xUVHtiqRA",
+    "alias": "black-cat-london",
+    "name": "Black Cat",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/uG9SvndQFTpQfL0XEeC3cQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/black-cat-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 25,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5513968,
+      "longitude": -0.055691
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "76 Clarence Road",
+      "address2": "Hackney",
+      "address3": "",
+      "city": "London",
+      "zip_code": "E5 8HB",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "76 Clarence Road",
+        "Hackney",
+        "London E5 8HB",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442089857091",
+    "display_phone": "+44 20 8985 7091",
+    "distance": 7009.439115266892
+  },
+  {
+    "id": "lWIaUMCpSkJHaODE0JgN8g",
+    "alias": "café-forty-one-london",
+    "name": "Café Forty One",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/U9ob-SQZTn3iddtp1rpRIg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/caf%C3%A9-forty-one-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 10,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.512652,
+      "longitude": -0.1867779
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "41-51 Inverness Terrace",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W2 3JN",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "41-51 Inverness Terrace",
+        "London W2 3JN",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442073138484",
+    "display_phone": "+44 20 7313 8484",
+    "distance": 3515.5355918792093
+  },
+  {
+    "id": "j-COOxZY61L-bkpJXgUuwA",
+    "alias": "andu-café-london",
+    "name": "Andu Café",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/rK3ftbw8lm497OkFeLPddw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/andu-caf%C3%A9-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 9,
+    "categories": [
+      {
+        "alias": "ethiopian",
+        "title": "Ethiopian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.544536,
+      "longitude": -0.0758
+    },
+    "transactions": [],
+    "location": {
+      "address1": "528 Kingsland Road",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "E8 4AB",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "528 Kingsland Road",
+        "London E8 4AB",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442072541780",
+    "display_phone": "+44 20 7254 1780",
+    "distance": 5447.63092318584
+  },
+  {
+    "id": "2Kdbq8L0P0Qhpk8ql1D7IQ",
+    "alias": "temple-of-seitan-london-2",
+    "name": "Temple of Seitan",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/CaWLVS2-SUWEuiraNioT-g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/temple-of-seitan-london-2?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 13,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.537883,
+      "longitude": -0.130586
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "103 Camley St",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "N1C 4PF",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "103 Camley St",
+        "London N1C 4PF",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 2798.9831102870903
+  },
+  {
+    "id": "pGKetrSI0kyG6yxlII2n6g",
+    "alias": "wild-food-cafe-islington-london",
+    "name": "Wild Food Cafe - Islington",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/4-Cq060-dnSb0qN-LuGfCA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/wild-food-cafe-islington-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "raw_food",
+        "title": "Live/Raw Food"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.5426596,
+      "longitude": -0.102888
+    },
+    "transactions": [],
+    "location": {
+      "address1": "269 - 270 Upper Street",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "N1 2UQ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "269 - 270 Upper Street",
+        "London N1 2UQ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442080363990",
+    "display_phone": "+44 20 8036 3990",
+    "distance": 4025.4374100695604
+  },
+  {
+    "id": "IQpsCaCYOAZkKAJRcA-24Q",
+    "alias": "jusu-brothers-london",
+    "name": "Jusu Brothers",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/d-sv1Ot6Q794WATupJBljA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/jusu-brothers-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 11,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "juicebars",
+        "title": "Juice Bars & Smoothies"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5147605,
+      "longitude": -0.1960694
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "147-149 Westbourne Grove",
+      "address2": null,
+      "address3": "",
+      "city": "London",
+      "zip_code": "W11 2RS",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "147-149 Westbourne Grove",
+        "London W11 2RS",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442038028805",
+    "display_phone": "+44 20 3802 8805",
+    "distance": 4176.359135956093
+  },
+  {
+    "id": "3uX9bvqNducI8wHOSQDRXg",
+    "alias": "sagar-london-4",
+    "name": "Sagar",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/YjoK4GCVqkrmzihXMAF96A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sagar-london-4?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 109,
+    "categories": [
+      {
+        "alias": "indpak",
+        "title": "Indian"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5126203,
+      "longitude": -0.1207112
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "31 Catherine St",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "WC2B 5JS",
+      "country": "GB",
+      "state": "LND",
+      "display_address": [
+        "31 Catherine St",
+        "London WC2B 5JS",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442078366377",
+    "display_phone": "+44 20 7836 6377",
+    "distance": 1059.8031296292165
+  },
+  {
+    "id": "LQ3OoPWDQbrLrB6iq8SwHg",
+    "alias": "comptoir-v-london",
+    "name": "Comptoir V",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/xxHDkG7mZOVw4-JkPUuyIg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/comptoir-v-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.5342178344727,
+      "longitude": -0.219809994101524
+    },
+    "transactions": [],
+    "location": {
+      "address1": "1 Keslake Mansions",
+      "address2": "12 Station Terrace",
+      "address3": null,
+      "city": "London",
+      "zip_code": "NW10 5RU",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "1 Keslake Mansions",
+        "12 Station Terrace",
+        "London NW10 5RU",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442030920047",
+    "display_phone": "+44 20 3092 0047",
+    "distance": 6259.346717849409
+  },
+  {
+    "id": "iJGo7qT7a8Gu5Em-6KvlLA",
+    "alias": "maloko-london",
+    "name": "Maloko",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/to7USfV61C4l20BZbUCISQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/maloko-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "african",
+        "title": "African"
+      },
+      {
+        "alias": "french",
+        "title": "French"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.4736925,
+      "longitude": -0.0886691
+    },
+    "transactions": [],
+    "location": {
+      "address1": "60 Camberwell Church Street",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "SE5 8TU",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "60 Camberwell Church Street",
+        "London SE5 8TU",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442033058913",
+    "display_phone": "+44 20 3305 8913",
+    "distance": 5456.046567693069
+  },
+  {
+    "id": "_ymC_pjQYWhyhptwnJI3vg",
+    "alias": "magic-falafel-london-2",
+    "name": "Magic Falafel",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/xjbLeM_btG-v_lGOSNX_DQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/magic-falafel-london-2?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 13,
+    "categories": [
+      {
+        "alias": "falafel",
+        "title": "Falafel"
+      },
+      {
+        "alias": "foodstands",
+        "title": "Food Stands"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.5422885,
+      "longitude": -0.1483506
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "Unit 312-313",
+      "address2": "",
+      "address3": "Camden Market",
+      "city": "London",
+      "zip_code": "NW1 8AH",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Unit 312-313",
+        "Camden Market",
+        "London NW1 8AH",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447490466662",
+    "display_phone": "+44 7490 466662",
+    "distance": 3374.241832970792
+  },
+  {
+    "id": "k-qIxL_IHDlXxlgDpNkN7Q",
+    "alias": "ez-and-moss-london",
+    "name": "EZ & Moss",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/xnumJ2dStCWI1qINe4805Q/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/ez-and-moss-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 14,
+    "categories": [
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5501848,
+      "longitude": -0.1092206
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "183 Holloway Road",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "N7 8LX",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "183 Holloway Road",
+        "London N7 8LX",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442076199523",
+    "display_phone": "+44 20 7619 9523",
+    "distance": 4536.64868046273
+  },
+  {
+    "id": "_eLGYgZ5aqLeyADvCRUT0w",
+    "alias": "the-detox-kitchen-london-3",
+    "name": "The Detox Kitchen",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/fuO5NknBz3nQZF8TaV5S1A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-detox-kitchen-london-3?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 6,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "delis",
+        "title": "Delis"
+      },
+      {
+        "alias": "healthmarkets",
+        "title": "Health Markets"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5186046,
+      "longitude": -0.1380871
+    },
+    "transactions": [],
+    "location": {
+      "address1": "10 Mortimer Street",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "W1T 3JJ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "10 Mortimer Street",
+        "London W1T 3JJ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442074986417",
+    "display_phone": "+44 20 7498 6417",
+    "distance": 647.4958480735395
+  },
+  {
+    "id": "xXS34SSivXDzySH9hrAVMw",
+    "alias": "sagar-london-3",
+    "name": "Sagar",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/eTxNnH4gTOkTChTSdPpLXA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sagar-london-3?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 54,
+    "categories": [
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "indpak",
+        "title": "Indian"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5184954,
+      "longitude": -0.1327689
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "17a Percy Street",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W1T 1DU",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "17a Percy Street",
+        "London W1T 1DU",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442076313319",
+    "display_phone": "+44 20 7631 3319",
+    "distance": 656.8872298071137
+  },
+  {
+    "id": "zqr54R-hh99HCPaujuLpXQ",
+    "alias": "carnevale-london",
+    "name": "Carnevale",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wV5zTZdYZq2oua63FPdl5Q/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/carnevale-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 14,
+    "categories": [
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "mediterranean",
+        "title": "Mediterranean"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5228964,
+      "longitude": -0.0929861
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "135 Whitecross Street",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "EC1Y 8JL",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "135 Whitecross Street",
+        "London EC1Y 8JL",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442072503452",
+    "display_phone": "+44 20 7250 3452",
+    "distance": 3173.144694209382
+  },
+  {
+    "id": "U5KT3ojJN01z9y9Fmf4Bfg",
+    "alias": "woodlands-restaurant-london",
+    "name": "Woodlands Restaurant",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qz0Vt491GiFiUcpFuLabMg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/woodlands-restaurant-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 32,
+    "categories": [
+      {
+        "alias": "indpak",
+        "title": "Indian"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 51.5095919,
+      "longitude": -0.1315508
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "37 Panton Street",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "SW1Y 4EA",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "37 Panton Street",
+        "London SW1Y 4EA",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442078397258",
+    "display_phone": "+44 20 7839 7258",
+    "distance": 481.78208625864164
+  },
+  {
+    "id": "pOKUeEUxwp827dqW_wr4GA",
+    "alias": "unity-diner-london",
+    "name": "Unity Diner",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/MofD_LIWyg2jzYgLEGpz8g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/unity-diner-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 20,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "diners",
+        "title": "Diners"
+      },
+      {
+        "alias": "cocktailbars",
+        "title": "Cocktail Bars"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.516854,
+      "longitude": -0.0737873
+    },
+    "transactions": [],
+    "location": {
+      "address1": "60 Wentworth Street",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "E1 7AL",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "60 Wentworth Street",
+        "London E1 7AL",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442074260224",
+    "display_phone": "+44 20 7426 0224",
+    "distance": 4325.4646999788865
+  },
+  {
+    "id": "4lUJmCkcCzaFSGr73FBEDA",
+    "alias": "the-odds-peckham",
+    "name": "The Odds",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/YGx7XsxRgwtZNpLKgxsCzQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-odds-peckham?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "pancakes",
+        "title": "Pancakes"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.468124,
+      "longitude": -0.0686068
+    },
+    "transactions": [],
+    "location": {
+      "address1": "28 Choumert Rd",
+      "address2": "",
+      "address3": "",
+      "city": "Peckham",
+      "zip_code": "SE15 4SE",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "28 Choumert Rd",
+        "Peckham SE15 4SE",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 6825.358079841641
+  },
+  {
+    "id": "CEPduoos73caV6mfrtxH-A",
+    "alias": "dou-dou-london",
+    "name": "Dou Dou",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/dou-dou-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 8,
+    "categories": [
+      {
+        "alias": "buffets",
+        "title": "Buffets"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5396299521655,
+      "longitude": -0.1422534
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "Camden Town",
+      "address2": "6 Kentish Town Road",
+      "address3": "",
+      "city": "London",
+      "zip_code": "NW1 9NX",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Camden Town",
+        "6 Kentish Town Road",
+        "London NW1 9NX",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447850663328",
+    "display_phone": "+44 7850 663328",
+    "distance": 2999.844410301876
+  },
+  {
+    "id": "uzo65CTyWCZjcx8WwH1yXg",
+    "alias": "love-shack-london",
+    "name": "Love Shack",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/oLOHbtKsSAPA8mMpDkCuSw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/love-shack-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "venues",
+        "title": "Venues & Event Spaces"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.532375,
+      "longitude": -0.057176
+    },
+    "transactions": [],
+    "location": {
+      "address1": "Arch 298-299 Cambridge Heath Road",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "E2 9HA",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Arch 298-299 Cambridge Heath Road",
+        "London E2 9HA",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 5864.863206186709
+  },
+  {
+    "id": "KoB7I_suFSZSqlBcMEXsFg",
+    "alias": "greenport-london",
+    "name": "Greenport",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wJbY9I3Zh8Er-tdFRsJY2w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/greenport-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 4,
+    "categories": [
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "tradamerican",
+        "title": "American"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 51.5023263,
+      "longitude": -0.1100895
+    },
+    "transactions": [],
+    "location": {
+      "address1": "157 Waterloo Road",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "SE1 8XA",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "157 Waterloo Road",
+        "London SE1 8XA",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442078703747",
+    "display_phone": "+44 20 7870 3747",
+    "distance": 2145.219716974394
+  },
+  {
+    "id": "yg-DIi5wC43mRTeedGyYVw",
+    "alias": "the-free-from-bakehouse-london",
+    "name": "The Free From Bakehouse",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/kFEN-HYoXzmMAwk_1rFlHQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-free-from-bakehouse-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 7,
+    "categories": [
+      {
+        "alias": "bakeries",
+        "title": "Bakeries"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5049271,
+      "longitude": -0.0945223
+    },
+    "transactions": [],
+    "location": {
+      "address1": "Borough Market",
+      "address2": "8 Southwark Street",
+      "address3": "",
+      "city": "London",
+      "zip_code": "SE1 1TL",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Borough Market",
+        "8 Southwark Street",
+        "London SE1 1TL",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447927258978",
+    "display_phone": "+44 7927 258978",
+    "distance": 3004.0498015153553
+  },
+  {
+    "id": "H3Adfv3wnboWmv5-mOBRQw",
+    "alias": "the-gallery-café-london-3",
+    "name": "The Gallery Café",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/i6rIoWnxw28rAii8Oz8A7A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-gallery-caf%C3%A9-london-3?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 74,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 51.5298488421438,
+      "longitude": -0.0544517132455334
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "21 Old Ford Road",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "E2 9PL",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "21 Old Ford Road",
+        "London E2 9PL",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442089802092",
+    "display_phone": "+44 20 8980 2092",
+    "distance": 5945.896475052977
+  },
+  {
+    "id": "GfvthVztCeXQSeGkglobgg",
+    "alias": "the-hornbeam-cafe-london",
+    "name": "The Hornbeam Cafe",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/Ee8opEIKaCmRgdpTmwaFog/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-hornbeam-cafe-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 7,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      },
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5760708,
+      "longitude": -0.0149919
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "458 Hoe Street",
+      "address2": "Walthamstow",
+      "address3": "",
+      "city": "London",
+      "zip_code": "E17 9AH",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "458 Hoe Street",
+        "Walthamstow",
+        "London E17 9AH",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442085586880",
+    "display_phone": "+44 20 8558 6880",
+    "distance": 10925.158262427824
+  },
+  {
+    "id": "X_ENdT2USAG_X8bs83ijYg",
+    "alias": "rudys-dirty-vegan-diner-london",
+    "name": "Rudy's Dirty Vegan Diner",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Eu4PzSeJvoQvuA5H5wXi9w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/rudys-dirty-vegan-diner-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 8,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5424003308146,
+      "longitude": -0.14850796110578
+    },
+    "transactions": [],
+    "location": {
+      "address1": "Chalk Farm Rd",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "NW1",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Chalk Farm Rd",
+        "London NW1",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 3389.0392261503193
+  },
+  {
+    "id": "-DiKePIk80wOVAxVnj_kZw",
+    "alias": "redemption-london-3",
+    "name": "Redemption",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/8BKXjn1dX_WKjDtYmA6HDA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/redemption-london-3?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 15,
+    "categories": [
+      {
+        "alias": "bars",
+        "title": "Bars"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5155772,
+      "longitude": -0.195027
+    },
+    "transactions": [],
+    "location": {
+      "address1": "6 Chepstow Road",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W2 5BH",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "6 Chepstow Road",
+        "London W2 5BH",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442073139041",
+    "display_phone": "+44 20 7313 9041",
+    "distance": 4095.7963771280506
+  },
+  {
+    "id": "xYy4_sAeeoFQhLrBdhhpDQ",
+    "alias": "yorica-london",
+    "name": "Yorica!",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/pSkf83JkHHUOBudqlLDJsg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/yorica-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 55,
+    "categories": [
+      {
+        "alias": "icecream",
+        "title": "Ice Cream & Frozen Yogurt"
+      },
+      {
+        "alias": "desserts",
+        "title": "Desserts"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.51435,
+      "longitude": -0.134513
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "130 Wardour Street",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W1F 8ZN",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "130 Wardour Street",
+        "London W1F 8ZN",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442074344370",
+    "display_phone": "+44 20 7434 4370",
+    "distance": 187.94123112092058
+  },
+  {
+    "id": "ymPZZiFP14gjuqvlsd2Dhg",
+    "alias": "katakata-london",
+    "name": "Katakata",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/bu21W4vddxQM7AKgczVinA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/katakata-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 7,
+    "categories": [
+      {
+        "alias": "creperies",
+        "title": "Creperies"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.4527259737879,
+      "longitude": -0.121387057006359
+    },
+    "transactions": [],
+    "location": {
+      "address1": "132 Brixton Hill",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "SW2 1RS",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "132 Brixton Hill",
+        "London SW2 1RS",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442034901160",
+    "display_phone": "+44 20 3490 1160",
+    "distance": 6770.816878965119
+  },
+  {
+    "id": "LqF2CjyQu0__v1ySNWJG8Q",
+    "alias": "cook-daily-london-2",
+    "name": "Cook Daily",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/W7U0sxVOn2AGdogiUlgSLw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/cook-daily-london-2?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 24,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "foodstands",
+        "title": "Food Stands"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5378951454733,
+      "longitude": -0.0584027543663979
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "Arch 358",
+      "address2": "Westgate Street",
+      "address3": "",
+      "city": "London",
+      "zip_code": "E8 3RN",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Arch 358",
+        "Westgate Street",
+        "London E8 3RN",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447498563168",
+    "display_phone": "+44 7498 563168",
+    "distance": 6041.953243798004
+  },
+  {
+    "id": "elEmETsx5rVcCeIg7a2yXw",
+    "alias": "the-canary-london-2",
+    "name": "The Canary",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/62Sse6SvHpFsXL2RMh2UYA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-canary-london-2?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.5294906,
+      "longitude": -0.0609225
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "61-63 Old Bethnal Green Road",
+      "address2": null,
+      "address3": "",
+      "city": "London",
+      "zip_code": "E2 6QA",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "61-63 Old Bethnal Green Road",
+        "London E2 6QA",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442082578170",
+    "display_phone": "+44 20 8257 8170",
+    "distance": 5522.019852321341
+  },
+  {
+    "id": "Bqxocq72ajSBZHoLDVREzQ",
+    "alias": "vantra-eden-london",
+    "name": "Vantra Eden",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/vantra-eden-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.521046,
+      "longitude": -0.135123
+    },
+    "transactions": [],
+    "location": {
+      "address1": "79a Tottenham Court Rd",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W1T 4TD",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "79a Tottenham Court Rd",
+        "London W1T 4TD",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 903.7655206972952
+  },
+  {
+    "id": "YMCoy6XiUv1w3Whr6F4fyw",
+    "alias": "kalifornia-kitchen-london",
+    "name": "Kalifornia Kitchen",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/tF6N0qT2yCv0cj5bffnSnQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/kalifornia-kitchen-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 9,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5185890197754,
+      "longitude": -0.132510006427765
+    },
+    "transactions": [],
+    "location": {
+      "address1": "19 Percy Street",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "W1T 1BZ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "19 Percy Street",
+        "London W1T 1BZ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 670.1533968084492
+  },
+  {
+    "id": "7c2vaxOkhwvTFPE4oUoS3w",
+    "alias": "whole-meal-cafe-london-2",
+    "name": "Whole Meal Cafe",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/QbRbvvc7Bt4BYO_Ql2EFVg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/whole-meal-cafe-london-2?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 23,
+    "categories": [
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "british",
+        "title": "British"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.4303986,
+      "longitude": -0.1293122
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "1 Shrubbery Road",
+      "address2": "Streatham",
+      "address3": null,
+      "city": "London",
+      "zip_code": "SW16 2AS",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "1 Shrubbery Road",
+        "Streatham",
+        "London SW16 2AS",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442087692423",
+    "display_phone": "+44 20 8769 2423",
+    "distance": 9189.299409047737
+  },
+  {
+    "id": "HSowKyorXPRpttxD3acgFQ",
+    "alias": "healthy-wealthy-london",
+    "name": "Healthy Wealthy",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/healthy-wealthy-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "indpak",
+        "title": "Indian"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 51.54927,
+      "longitude": -0.129505
+    },
+    "transactions": [],
+    "location": {
+      "address1": "10 Brecknock Road",
+      "address2": "Camden",
+      "address3": "",
+      "city": "London",
+      "zip_code": "N7 0DD",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "10 Brecknock Road",
+        "Camden",
+        "London N7 0DD",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442077000777",
+    "display_phone": "+44 20 7700 0777",
+    "distance": 4064.9253938184224
+  },
+  {
+    "id": "ak9Ru7VnzKh0jz53kMadOg",
+    "alias": "wholefood-heaven-london",
+    "name": "Wholefood Heaven",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/6MppNef1fBLFKsCTy5eQ_Q/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/wholefood-heaven-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 4,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "foodtrucks",
+        "title": "Food Trucks"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.545258,
+      "longitude": -0.140778
+    },
+    "transactions": [],
+    "location": {
+      "address1": "Whitecross Street Market",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "NW1 9JL",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Whitecross Street Market",
+        "London NW1 9JL",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442072094988",
+    "display_phone": "+44 20 7209 4988",
+    "distance": 3608.198571885234
+  },
+  {
+    "id": "njO1T9_64IvmtJ_8KgdkVQ",
+    "alias": "pipoca-vegan-london",
+    "name": "Pipoca Vegan",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ojMP2O68JE8o6X8w5lD8oA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/pipoca-vegan-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "delicatessen",
+        "title": "Delicatessen"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 51.4720029,
+      "longitude": -0.1130357
+    },
+    "transactions": [],
+    "location": {
+      "address1": "224A Brixton Road",
+      "address2": null,
+      "address3": "",
+      "city": "London",
+      "zip_code": "SW9 6AH",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "224A Brixton Road",
+        "London SW9 6AH",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447919620877",
+    "display_phone": "+44 7919 620877",
+    "distance": 4824.331635518829
+  },
+  {
+    "id": "p2OXXku5lOw3rdkSCWVsyA",
+    "alias": "tell-your-friends-london",
+    "name": "Tell Your Friends",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/zbLmWIGQk2zhk51oLDZ26g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/tell-your-friends-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 6,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "venues",
+        "title": "Venues & Event Spaces"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.4736232065026,
+      "longitude": -0.196639967318385
+    },
+    "transactions": [],
+    "location": {
+      "address1": "175 New King's Rd",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "SW6 4SW",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "175 New King's Rd",
+        "London SW6 4SW",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442077316404",
+    "display_phone": "+44 20 7731 6404",
+    "distance": 6061.826382843544
+  },
+  {
+    "id": "_uFHdQr2si6J7-NdNp2MWw",
+    "alias": "by-chloe-tower-bridge-london",
+    "name": "by CHLOE. Tower Bridge",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/EVRt84lYwMIQrczPqNb2Uw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/by-chloe-tower-bridge-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 16,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      },
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5035046,
+      "longitude": -0.0773
+    },
+    "transactions": [],
+    "location": {
+      "address1": "One Tower Bridge",
+      "address2": "Tower Bridge Road",
+      "address3": "",
+      "city": "London",
+      "zip_code": "SE1 2UP",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "One Tower Bridge",
+        "Tower Bridge Road",
+        "London SE1 2UP",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442122908000",
+    "display_phone": "+44 21 2290 8000",
+    "distance": 4194.207272670696
+  },
+  {
+    "id": "yiF7ZMSJUF0mVKxa6_TmFQ",
+    "alias": "leles-london",
+    "name": "Lele's",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ts9weMJRXKbgF9Kf6dKOQQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/leles-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "british",
+        "title": "British"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.5517142,
+      "longitude": -0.0516912
+    },
+    "transactions": [],
+    "location": {
+      "address1": "50 Lower Clapton Road",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "E5 0RN",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "50 Lower Clapton Road",
+        "London E5 0RN",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447807740049",
+    "display_phone": "+44 7807 740049",
+    "distance": 7253.586946977788
+  },
+  {
+    "id": "9btjcbesPXFsCUWAAVXLow",
+    "alias": "flipside-london",
+    "name": "Flipside",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/7aDtzEgUBxg3BXvZKpX53w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/flipside-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.5199925522062,
+      "longitude": -0.102408122849967
+    },
+    "transactions": [],
+    "location": {
+      "address1": "87 Cowcross St",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "EC1M 6BH",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "87 Cowcross St",
+        "London EC1M 6BH",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 2451.8453598167916
+  },
+  {
+    "id": "BM8Chuy9Q8t1pNAHzJ5_Qw",
+    "alias": "redemption-london-5",
+    "name": "Redemption",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/aVjKvXN4gW31NErIE0Ai8A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/redemption-london-5?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 10,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 51.51424,
+      "longitude": -0.12636
+    },
+    "transactions": [],
+    "location": {
+      "address1": "15 Shorts Gardens",
+      "address2": "Seven Dials Covent Garden",
+      "address3": "",
+      "city": "London",
+      "zip_code": "WC2H 9AT",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "15 Shorts Gardens",
+        "Seven Dials Covent Garden",
+        "London WC2H 9AT",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442076614079",
+    "display_phone": "+44 20 7661 4079",
+    "distance": 687.4721315680836
+  },
+  {
+    "id": "rDy4IJfzm72nRToPC7PfXg",
+    "alias": "redemption-london-4",
+    "name": "Redemption",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/wI1_nhfiJXsdCS25Hs8L7A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/redemption-london-4?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 11,
+    "categories": [
+      {
+        "alias": "bars",
+        "title": "Bars"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.526608,
+      "longitude": -0.081624
+    },
+    "transactions": [],
+    "location": {
+      "address1": "320 Old Street",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "EC1V 9DR",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "320 Old Street",
+        "London EC1V 9DR",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442076130720",
+    "display_phone": "+44 20 7613 0720",
+    "distance": 4030.909059007987
+  },
+  {
+    "id": "7y87XhuSRjPvFC35omEBBA",
+    "alias": "miranda-cafe-london",
+    "name": "Miranda Cafe",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vw3jdPrDx1-EurL3FxBxaw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/miranda-cafe-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.5811918320925,
+      "longitude": -0.121645116567606
+    },
+    "transactions": [],
+    "location": {
+      "address1": "28 Broadway Parade",
+      "address2": null,
+      "address3": "",
+      "city": "London",
+      "zip_code": "N8 9DB",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "28 Broadway Parade",
+        "London N8 9DB",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442083428989",
+    "display_phone": "+44 20 8342 8989",
+    "distance": 7654.169390530284
+  },
+  {
+    "id": "VYOFivYzIl3brZvd4VvV_Q",
+    "alias": "maple-and-fitz-london",
+    "name": "Maple & Fitz",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/D8Xp6bCNmh5KZLp_aeMKRw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/maple-and-fitz-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 4,
+    "categories": [
+      {
+        "alias": "juicebars",
+        "title": "Juice Bars & Smoothies"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 51.518613,
+      "longitude": -0.137395
+    },
+    "transactions": [],
+    "location": {
+      "address1": "36A Berners Street",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W1T 3LY",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "36A Berners Street",
+        "London W1T 3LY",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442076313056",
+    "display_phone": "+44 20 7631 3056",
+    "distance": 642.5256972370597
+  },
+  {
+    "id": "-sI3lL2V7-pZPOYVICWCQQ",
+    "alias": "waagosh-london",
+    "name": "Waagosh",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/mfkV6dD51_bbheptlg602A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/waagosh-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "foodtrucks",
+        "title": "Food Trucks"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.558349,
+      "longitude": -0.131632
+    },
+    "transactions": [],
+    "location": {
+      "address1": "Mercers Road",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "N19 4PY",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Mercers Road",
+        "London N19 4PY",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+441424718728",
+    "display_phone": "+44 1424 718728",
+    "distance": 5052.767599277036
+  },
+  {
+    "id": "u7aTmKXmc8trRrpRav6kCg",
+    "alias": "essential-vegan-cafe-london",
+    "name": "Essential Vegan Cafe",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/ehU24ReQdRY3DfUMq37VTA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/essential-vegan-cafe-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.52629,
+      "longitude": -0.07746
+    },
+    "transactions": [],
+    "location": {
+      "address1": "6 Calvert Ave",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "E2 7JP",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "6 Calvert Ave",
+        "London E2 7JP",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442077393628",
+    "display_phone": "+44 20 7739 3628",
+    "distance": 4313.849407448237
+  },
+  {
+    "id": "NMLg-k71vzunEjY0W79miQ",
+    "alias": "what-the-pitta-london-2",
+    "name": "What The Pitta!",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/-PW8nNVZYwT74HWU79iSXA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/what-the-pitta-london-2?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "turkish",
+        "title": "Turkish"
+      },
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 51.53798,
+      "longitude": -0.14062
+    },
+    "transactions": [],
+    "location": {
+      "address1": "89-91 Bayham Street",
+      "address2": "Ground Floor Right",
+      "address3": "",
+      "city": "London",
+      "zip_code": "NW1 0AG",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "89-91 Bayham Street",
+        "Ground Floor Right",
+        "London NW1 0AG",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 2793.8740390012304
+  },
+  {
+    "id": "uEpXCd-0FxYw6Ic04nvQtQ",
+    "alias": "the-vurger-co-london",
+    "name": "The Vurger Co",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8f7KyaKb4NOD8pG7A_ZOyw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-vurger-co-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      },
+      {
+        "alias": "newamerican",
+        "title": "New American"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5240621164337,
+      "longitude": -0.0727692705002028
+    },
+    "transactions": [],
+    "location": {
+      "address1": "Unit 9 Avant Garde Building",
+      "address2": "6 Richmix Square Cygnet Street",
+      "address3": "Shoreditch",
+      "city": "London",
+      "zip_code": "E1 6LD",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Unit 9 Avant Garde Building",
+        "6 Richmix Square Cygnet Street",
+        "Shoreditch",
+        "London E1 6LD",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442032220049",
+    "display_phone": "+44 20 3222 0049",
+    "distance": 4545.188308325567
+  },
+  {
+    "id": "JXoYSPnNUvzu8Z4kqbArNQ",
+    "alias": "paradise-unbakery-london",
+    "name": "Paradise Unbakery",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/qT5HB0Tyl4yJPIUvXIPgQA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/paradise-unbakery-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.53333,
+      "longitude": -0.21828
+    },
+    "transactions": [],
+    "location": {
+      "address1": "59 Chamberlayne Rd",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "NW10",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "59 Chamberlayne Rd",
+        "London NW10",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442089688321",
+    "display_phone": "+44 20 8968 8321",
+    "distance": 6125.3087235341945
+  },
+  {
+    "id": "D_K05_8gB6Mm8vf8q2VHzQ",
+    "alias": "love-gift-vegan-london",
+    "name": "Love Gift Vegan",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/Br1m0J6qhuSetYBIa6qw4A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/love-gift-vegan-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 5,
+    "categories": [
+      {
+        "alias": "caribbean",
+        "title": "Caribbean"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.4569312,
+      "longitude": 0.0090325
+    },
+    "transactions": [],
+    "location": {
+      "address1": "386 Lee High Rd",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "SE12 8RW",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "386 Lee High Rd",
+        "London SE12 8RW",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447958308397",
+    "display_phone": "+44 7958 308397",
+    "distance": 11815.344948508518
+  },
+  {
+    "id": "MLEFOEkiYOfHyR5VXdPohQ",
+    "alias": "sazzy-and-fran-london",
+    "name": "Sazzy and Fran",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/S0NpdrFcBo6MEZH2GxpYUw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sazzy-and-fran-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "healthmarkets",
+        "title": "Health Markets"
+      },
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.527776215703,
+      "longitude": -0.052325766864783
+    },
+    "transactions": [],
+    "location": {
+      "address1": "33 Roman Road",
+      "address2": "Bethnal Green",
+      "address3": "",
+      "city": "London",
+      "zip_code": "E2 0HU",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "33 Roman Road",
+        "Bethnal Green",
+        "London E2 0HU",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 6018.510403999244
+  },
+  {
+    "id": "GCOF_iHjk91VpDugb9SlgA",
+    "alias": "mary-ward-centre-cafe-london",
+    "name": "Mary Ward Centre Cafe",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cL8HT5oGbgvox0PQK34cIg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/mary-ward-centre-cafe-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 7,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5208740234375,
+      "longitude": -0.121821999549866
+    },
+    "transactions": [],
+    "location": {
+      "address1": "42 Queen's Square",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "WC1N 3AQ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "42 Queen's Square",
+        "London WC1N 3AQ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442072696000",
+    "display_phone": "+44 20 7269 6000",
+    "distance": 1318.5753546707856
+  },
+  {
+    "id": "LkeDybXcRXTmg0adYOzgRw",
+    "alias": "vegan-crosstown-london",
+    "name": "Vegan Crosstown",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/yFkwZXPTPAiTXqQ4IG08Pw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/vegan-crosstown-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "donuts",
+        "title": "Donuts"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.51542,
+      "longitude": -0.1513799
+    },
+    "transactions": [],
+    "location": {
+      "address1": "5-6 Picton Place",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "W1U 1BW",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "5-6 Picton Place",
+        "London W1U 1BW",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442074873733",
+    "display_phone": "+44 20 7487 3733",
+    "distance": 1103.681609587551
+  },
+  {
+    "id": "zJEzvvrXDUbXB8cKf9cA_Q",
+    "alias": "omnom-london",
+    "name": "OmNom",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/fC908aS1gPUQ0MMTyJz2-A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/omnom-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "yoga",
+        "title": "Yoga"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.53837,
+      "longitude": -0.1025057
+    },
+    "transactions": [],
+    "location": {
+      "address1": "116N Upper Street",
+      "address2": null,
+      "address3": "",
+      "city": "London",
+      "zip_code": "N1 1QP",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "116N Upper Street",
+        "London N1 1QP",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 3655.24849632491
+  },
+  {
+    "id": "88wwzrq9haQxSl0HciJggA",
+    "alias": "hot-pepper-jelly-london",
+    "name": "Hot Pepper Jelly",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/HHXyUhj_F8QuQQgz_XAA3g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/hot-pepper-jelly-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 15,
+    "categories": [
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5802046022931,
+      "longitude": -0.122903507627645
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "11 Broadway Parade",
+      "address2": "Tottenham Lane",
+      "address3": "",
+      "city": "London",
+      "zip_code": "N8 9DE",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "11 Broadway Parade",
+        "Tottenham Lane",
+        "London N8 9DE",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442083404318",
+    "display_phone": "+44 20 8340 4318",
+    "distance": 7534.397187828272
+  },
+  {
+    "id": "klNqwrEN0B_BO0q52778hQ",
+    "alias": "young-vegans-pie-shop-london",
+    "name": "Young Vegans Pie Shop",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/UK3tmXJFgvEzMQbgBMZ1gw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/young-vegans-pie-shop-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 10,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5176955,
+      "longitude": -0.1321773
+    },
+    "transactions": [],
+    "location": {
+      "address1": "Planet Organic",
+      "address2": "23-24 Tottenham Ct Rd",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W1T 1B",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Planet Organic",
+        "23-24 Tottenham Ct Rd",
+        "London W1T 1B",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447712169796",
+    "display_phone": "+44 7712 169796",
+    "distance": 621.8191991022901
+  },
+  {
+    "id": "caIqbWQLf4ug2QcKL5jpnA",
+    "alias": "what-the-pitta-london",
+    "name": "What The Pitta",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/wjYBGUBHvxJkcYkiDLYAzw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/what-the-pitta-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 10,
+    "categories": [
+      {
+        "alias": "kebab",
+        "title": "Kebab"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "foodstands",
+        "title": "Food Stands"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5234812410292,
+      "longitude": -0.0766286998987198
+    },
+    "transactions": [],
+    "location": {
+      "address1": "53 Brick Lane",
+      "address2": null,
+      "address3": null,
+      "city": "London",
+      "zip_code": "E1 6PU",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "53 Brick Lane",
+        "London E1 6PU",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447517920887",
+    "display_phone": "+44 7517 920887",
+    "distance": 4270.685618937938
+  },
+  {
+    "id": "Zd4i5k7-M7VhZW61qxX8Sw",
+    "alias": "amrutha-lounge-london",
+    "name": "Amrutha Lounge",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/cqCVKZJxfZ11WIZHWdriFA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/amrutha-lounge-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 4,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.4436479,
+      "longitude": -0.1899983
+    },
+    "transactions": [],
+    "location": {
+      "address1": "326 Garratt Lane",
+      "address2": null,
+      "address3": "",
+      "city": "London",
+      "zip_code": "SW18 4EJ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "326 Garratt Lane",
+        "London SW18 4EJ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442080014628",
+    "display_phone": "+44 20 8001 4628",
+    "distance": 8566.57729656071
+  },
+  {
+    "id": "HmcBuvqn0AHa-QV3Zzc94Q",
+    "alias": "sagar-london",
+    "name": "Sagar",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0YeB0YATP91aUPXtHVTOQA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/sagar-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 44,
+    "categories": [
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "indpak",
+        "title": "Indian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.4924981,
+      "longitude": -0.2322561
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "157 King Street",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W6 9JT",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "157 King Street",
+        "London W6 9JT",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442087418563",
+    "display_phone": "+44 20 8741 8563",
+    "distance": 7036.188099703104
+  },
+  {
+    "id": "boNPY67_CCuchsFa92SeTQ",
+    "alias": "rehab-cafe-and-bar-london-3",
+    "name": "Rehab Cafe & Bar",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/3CdjyBsMA6iS06QEz8ejcg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/rehab-cafe-and-bar-london-3?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.5450658,
+      "longitude": -0.0464399
+    },
+    "transactions": [],
+    "location": {
+      "address1": "271 Well Street",
+      "address2": null,
+      "address3": "",
+      "city": "London",
+      "zip_code": "E9 6RG",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "271 Well Street",
+        "London E9 6RG",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442032225119",
+    "display_phone": "+44 20 3222 5119",
+    "distance": 7150.4483659035905
+  },
+  {
+    "id": "z09lzpg1EBbG7eRHvk7KKQ",
+    "alias": "viet-ngon-restaurant-london",
+    "name": "Viet Ngon Restaurant",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/viet-ngon-restaurant-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vietnamese",
+        "title": "Vietnamese"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.5697444,
+      "longitude": -0.1135941
+    },
+    "transactions": [],
+    "location": {
+      "address1": "145 Stroud Green Road",
+      "address2": "Stroud Green",
+      "address3": "",
+      "city": "London",
+      "zip_code": "N4 3PZ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "145 Stroud Green Road",
+        "Stroud Green",
+        "London N4 3PZ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442072815095",
+    "display_phone": "+44 20 7281 5095",
+    "distance": 6513.840574714529
+  },
+  {
+    "id": "Ry9gH_Lj04jnmHdcJ2KEpg",
+    "alias": "nama-café-and-cake-house-london",
+    "name": "Nama Café and Cake House",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/woeTiWZ8lCD5pG56g9phHg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/nama-caf%C3%A9-and-cake-house-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 5,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "bakeries",
+        "title": "Bakeries"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.542462938033,
+      "longitude": -0.148081667285014
+    },
+    "transactions": [],
+    "location": {
+      "address1": "33 Westow Hill",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "SE19 1TQ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "33 Westow Hill",
+        "London SE19 1TQ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447939234657",
+    "display_phone": "+44 7939 234657",
+    "distance": 3388.3619622414353
+  },
+  {
+    "id": "xt_zjsAvMCsBIoBNuxUD4A",
+    "alias": "club-mexicana-london",
+    "name": "Club Mexicana",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/wTcA_AII07TII6tlZXUZ4Q/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/club-mexicana-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 10,
+    "categories": [
+      {
+        "alias": "mexican",
+        "title": "Mexican"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 51.5411317,
+      "longitude": -0.1461484
+    },
+    "transactions": [],
+    "location": {
+      "address1": "KERB Camden Market",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "NW1 8AF",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "KERB Camden Market",
+        "London NW1 8AF",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 3213.225980235514
+  },
+  {
+    "id": "Tzdawv36VsL7N8gTLXTLmg",
+    "alias": "buffalo-london-2",
+    "name": "Buffalo",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/mrICbZ9wcQUvvvvdX9BDIA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/buffalo-london-2?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.5400751,
+      "longitude": -0.0560769
+    },
+    "transactions": [],
+    "location": {
+      "address1": "171 Mare Street",
+      "address2": null,
+      "address3": null,
+      "city": "London",
+      "zip_code": "E8 3RH",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "171 Mare Street",
+        "London E8 3RH",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442086179470",
+    "display_phone": "+44 20 8617 9470",
+    "distance": 6297.696980836408
+  },
+  {
+    "id": "zEXaCL6ccmH8NKwSCheeOQ",
+    "alias": "the-full-nelson-london",
+    "name": "The Full Nelson",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/sxr7cyBRRVqXnIlQXeXGlg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-full-nelson-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.4746705408659,
+      "longitude": -0.025293231010437
+    },
+    "transactions": [],
+    "location": {
+      "address1": "47 Deptford Broadway",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "SE8 4PH",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "47 Deptford Broadway",
+        "London SE8 4PH",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 8764.751386648013
+  },
+  {
+    "id": "V4H4dQT3IqQYjAYb4p5Rkw",
+    "alias": "the-bright-store-london",
+    "name": "The Bright Store",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/CAfP1osbhQirqoDzhb6abw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-bright-store-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "homeandgarden",
+        "title": "Home & Garden"
+      },
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.5309506,
+      "longitude": -0.0688876
+    },
+    "transactions": [],
+    "location": {
+      "address1": "268 Hackney Road",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "E2 7SJ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "268 Hackney Road",
+        "London E2 7SJ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 5051.546654583778
+  },
+  {
+    "id": "BmXTlvUhnaMtWhB8WCtejQ",
+    "alias": "the-hive-london-7",
+    "name": "The Hive",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/P-qMKZ3mXhsGIEBvmpCX_w/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-hive-london-7?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      }
+    ],
+    "rating": 2,
+    "coordinates": {
+      "latitude": 51.4988656705546,
+      "longitude": -0.199602283537388
+    },
+    "transactions": [],
+    "location": {
+      "address1": "240-242 Kensington High Street",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "W8 6ND",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "240-242 Kensington High Street",
+        "London W8 6ND",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442073716987",
+    "display_phone": "+44 20 7371 6987",
+    "distance": 4673.187418591516
+  },
+  {
+    "id": "9Kl_V4IU_QK1LRLoYhsIhA",
+    "alias": "kiss-my-grass-london",
+    "name": "Kiss My Grass",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/GLyXtZeksN9DYslYczBoDQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/kiss-my-grass-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "desserts",
+        "title": "Desserts"
+      },
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.4847367,
+      "longitude": -0.2035246
+    },
+    "transactions": [],
+    "location": {
+      "address1": "123 Lillie Road",
+      "address2": null,
+      "address3": "",
+      "city": "London",
+      "zip_code": "SW6 7SX",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "123 Lillie Road",
+        "London SW6 7SX",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442073869444",
+    "display_phone": "+44 20 7386 9444",
+    "distance": 5627.698060535147
+  },
+  {
+    "id": "veUO9bhS7Eqi-BLqwnhK1A",
+    "alias": "vegan-yes-london",
+    "name": "Vegan Yes",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/RMHeExgNnBxslHepQdZKrw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/vegan-yes-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 12,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.5187357113673,
+      "longitude": -0.0714313709148927
+    },
+    "transactions": [],
+    "location": {
+      "address1": "64 Brick Lane",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "E1 6RF",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "64 Brick Lane",
+        "London E1 6RF",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447879536269",
+    "display_phone": "+44 7879 536269",
+    "distance": 4512.720974360622
+  },
+  {
+    "id": "xIPeJDQIgADLku2VAJ5GPg",
+    "alias": "arancini-brothers-london-5",
+    "name": "Arancini Brothers",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/WqzI1H-8MZ5MgrsxVxxX-g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/arancini-brothers-london-5?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 7,
+    "categories": [
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 3,
+    "coordinates": {
+      "latitude": 51.5239782930615,
+      "longitude": -0.0965008186161276
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "42 Old Street",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "EC1V 9AQ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "42 Old Street",
+        "London EC1V 9AQ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442072535718",
+    "display_phone": "+44 20 7253 5718",
+    "distance": 2994.8177915062683
+  },
+  {
+    "id": "xawmfh92QMgz-ab-hE3zcw",
+    "alias": "genesis-london-3",
+    "name": "Genesis",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/vCV_813_6SuZoImG6iVEFw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/genesis-london-3?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 10,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5216842,
+      "longitude": -0.0757523
+    },
+    "transactions": [],
+    "location": {
+      "address1": "144 Commerical Street",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "E1 6NU",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "144 Commerical Street",
+        "London E1 6NU",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442070590138",
+    "display_phone": "+44 20 7059 0138",
+    "distance": 4279.002575116386
+  },
+  {
+    "id": "e-Tc1FXfJLu0DIWub89EWw",
+    "alias": "vegan-burgers-by-mooshies-london",
+    "name": "Vegan Burgers by Mooshies",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/PCdCsjEyPPxdKLHD9ipGLQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/vegan-burgers-by-mooshies-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 28,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5196543,
+      "longitude": -0.0715914
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "104 Brick Lane",
+      "address2": null,
+      "address3": "",
+      "city": "London",
+      "zip_code": "E1 6RL",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "104 Brick Lane",
+        "London E1 6RL",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447931842458",
+    "display_phone": "+44 7931 842458",
+    "distance": 4513.207178523282
+  },
+  {
+    "id": "u4o7yQPhdxKcTSK6F9Netw",
+    "alias": "two-peas-harrow",
+    "name": "Two Peas",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/LfkwHcL5lXmGLnleQ_i9dQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/two-peas-harrow?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "pizza",
+        "title": "Pizza"
+      },
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.59562,
+      "longitude": -0.296584
+    },
+    "transactions": [],
+    "location": {
+      "address1": "242 Streatfield Road",
+      "address2": "",
+      "address3": "",
+      "city": "Harrow",
+      "zip_code": "HA3 9BX",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "242 Streatfield Road",
+        "Harrow HA3 9BX",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442082044660",
+    "display_phone": "+44 20 8204 4660",
+    "distance": 14416.261163585952
+  },
+  {
+    "id": "pxFIrplOuxY5eq0CO3u3jg",
+    "alias": "halo-burger-london",
+    "name": "Halo Burger",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/yFOqccsS9JxqqLH-zoUvwg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/halo-burger-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 5,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.4634315801126,
+      "longitude": -0.112393741801952
+    },
+    "transactions": [],
+    "location": {
+      "address1": "49 Brixton Station Rd",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "SW9 8PQ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "49 Brixton Station Rd",
+        "London SW9 8PQ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 5741.69785042795
+  },
+  {
+    "id": "KEpRGzUensxXsStV1v3Kiw",
+    "alias": "mao-chow-london",
+    "name": "Mao Chow",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/egh2b-9uLCDDQG0JDu_Hig/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/mao-chow-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "chinese",
+        "title": "Chinese"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5396971100522,
+      "longitude": -0.0563565641641617
+    },
+    "transactions": [],
+    "location": {
+      "address1": "159A Mare St",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "E8 3RH",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "159A Mare St",
+        "London E8 3RH",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 6260.656321289189
+  },
+  {
+    "id": "tg47Zt9RPJue7EbbeWsdBQ",
+    "alias": "nectar-cafe-london",
+    "name": "Nectar Cafe",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/nectar-cafe-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "raw_food",
+        "title": "Live/Raw Food"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.539914,
+      "longitude": -0.146908
+    },
+    "transactions": [],
+    "location": {
+      "address1": "57 Jamestown Road London",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "NW1 7DB",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "57 Jamestown Road London",
+        "London NW1 7DB",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442074833344",
+    "display_phone": "+44 20 7483 3344",
+    "distance": 3076.06296351895
+  },
+  {
+    "id": "Aq2aly8HuAMlfy1bdywRLw",
+    "alias": "fitaly-london",
+    "name": "Fitaly",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/DrLbVsdJ8SCwxnbnXJM3UQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/fitaly-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.49594,
+      "longitude": -0.20692
+    },
+    "transactions": [],
+    "location": {
+      "address1": "389 Kensington High Street",
+      "address2": null,
+      "address3": "",
+      "city": "London",
+      "zip_code": "W14 8QA",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "389 Kensington High Street",
+        "London W14 8QA",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442076037398",
+    "display_phone": "+44 20 7603 7398",
+    "distance": 5262.824909829847
+  },
+  {
+    "id": "Wloe2byrb3qPudyh79gxtQ",
+    "alias": "plant-hub-london-2",
+    "name": "Plant Hub",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/0Y-zPAw4dX83epclmX7Drw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/plant-hub-london-2?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.5416016,
+      "longitude": -0.0555295
+    },
+    "transactions": [],
+    "location": {
+      "address1": "217 Mare Street",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "E8 3QE",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "217 Mare Street",
+        "London E8 3QE",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442085100948",
+    "display_phone": "+44 20 8510 0948",
+    "distance": 6414.079218775559
+  },
+  {
+    "id": "kItaGUZ3weKkDZ3eGRBVNA",
+    "alias": "yeda-london",
+    "name": "YEDA",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/yeda-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.514717562456,
+      "longitude": -0.126254642939557
+    },
+    "transactions": [],
+    "location": {
+      "address1": "55 Neal Street",
+      "address2": null,
+      "address3": "",
+      "city": "London",
+      "zip_code": "WC2H 9PJ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "55 Neal Street",
+        "London WC2H 9PJ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442072905330",
+    "display_phone": "+44 20 7290 5330",
+    "distance": 701.4244715861031
+  },
+  {
+    "id": "RJWPZGav8YIowUHQvT558Q",
+    "alias": "thenga-cafe-london",
+    "name": "Thenga Cafe",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/3L7edI2lS57WhtAVN2wKyQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/thenga-cafe-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "indpak",
+        "title": "Indian"
+      },
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5274823813036,
+      "longitude": -0.124523843978443
+    },
+    "transactions": [],
+    "location": {
+      "address1": "120 Cromer Street",
+      "address2": "Kings Cross",
+      "address3": null,
+      "city": "London",
+      "zip_code": "WC1H 8BS",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "120 Cromer Street",
+        "Kings Cross",
+        "London WC1H 8BS",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442038179919",
+    "display_phone": "+44 20 3817 9919",
+    "distance": 1801.2357694961213
+  },
+  {
+    "id": "LfVuR6gqT0gwnnaUnZD1Gw",
+    "alias": "pipo-foods-london",
+    "name": "Pipo Foods",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/pipo-foods-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.4720029,
+      "longitude": -0.1130357
+    },
+    "transactions": [],
+    "location": {
+      "address1": "224A Brixton Road",
+      "address2": null,
+      "address3": "",
+      "city": "London",
+      "zip_code": "SW9 6AH",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "224A Brixton Road",
+        "London SW9 6AH",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447919620877",
+    "display_phone": "+44 7919 620877",
+    "distance": 4824.331635518829
+  },
+  {
+    "id": "sU7s0Zu-sfwt6Mjf1PnDug",
+    "alias": "my-vegan-yummy-muffins-london",
+    "name": "My Vegan Yummy Muffins",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/JINGgEdphwfkjbwMELTh3g/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/my-vegan-yummy-muffins-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.5589064186761,
+      "longitude": -0.0867444269836404
+    },
+    "transactions": [],
+    "location": {
+      "address1": "Studio 53",
+      "address2": "3-5 Shelford Place",
+      "address3": "",
+      "city": "London",
+      "zip_code": "N16 9HS",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Studio 53",
+        "3-5 Shelford Place",
+        "London N16 9HS",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447598987293",
+    "display_phone": "+44 7598 987293",
+    "distance": 6142.11249995665
+  },
+  {
+    "id": "4Gan62vZqiPrwzh-OtRPjw",
+    "alias": "bengal-village-best-of-brick-lane-london-2",
+    "name": "Bengal Village - Best of Brick Lane",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/qp-A_y5A-ulTulCRbZ2_xQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/bengal-village-best-of-brick-lane-london-2?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 55,
+    "categories": [
+      {
+        "alias": "indpak",
+        "title": "Indian"
+      },
+      {
+        "alias": "bangladeshi",
+        "title": "Bangladeshi"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.520046,
+      "longitude": -0.0720676
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "75 Brick Lane",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "E1 6QL",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "75 Brick Lane",
+        "London E1 6QL",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442073664868",
+    "display_phone": "+44 20 7366 4868",
+    "distance": 4497.628292179867
+  },
+  {
+    "id": "Fg8Vkwr5XwdxROCeGYSbTQ",
+    "alias": "cigkoftem-london",
+    "name": "Cigkoftem",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/0d-s63YmVX5JrlfYJdhpkg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/cigkoftem-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 2.5,
+    "coordinates": {
+      "latitude": 51.57844,
+      "longitude": -0.099258
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "417 Green Lanes",
+      "address2": "Haringey",
+      "address3": "",
+      "city": "London",
+      "zip_code": "N4 1EY",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "417 Green Lanes",
+        "Haringey",
+        "London N4 1EY",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442083479203",
+    "display_phone": "+44 20 8347 9203",
+    "distance": 7717.065352265385
+  },
+  {
+    "id": "iEYMPYEpXR8McPDUblDf9Q",
+    "alias": "the-watch-house-london-4",
+    "name": "The Watch House",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-watch-house-london-4?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "british",
+        "title": "British"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.5011323706339,
+      "longitude": -0.0539295369112819
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "199 Bermondsey Street",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "SE1 3UW",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "199 Bermondsey Street",
+        "London SE1 3UW",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442074076431",
+    "display_phone": "+44 20 7407 6431",
+    "distance": 5828.257152922976
+  },
+  {
+    "id": "a_nEm3kcvLJ3UfHNhHCydg",
+    "alias": "the-big-v-london",
+    "name": "The Big V",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-big-v-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "burgers",
+        "title": "Burgers"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.536731,
+      "longitude": -0.06176
+    },
+    "transactions": [],
+    "location": {
+      "address1": "45-47 Broadway Market",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "E8 4QJ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "45-47 Broadway Market",
+        "London E8 4QJ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 5776.2497591750935
+  },
+  {
+    "id": "oukuYJHH5g9p-okg2fUCbg",
+    "alias": "lu-ma-cafe-wimbledon",
+    "name": "Lu-Ma Cafe",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/IuI3WWDB996_36Ct922-Kw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/lu-ma-cafe-wimbledon?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 7,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.4202639,
+      "longitude": -0.2110857
+    },
+    "transactions": [],
+    "location": {
+      "address1": "43 Worple Road",
+      "address2": "",
+      "address3": "",
+      "city": "Wimbledon",
+      "zip_code": "SW19 4JZ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "43 Worple Road",
+        "Wimbledon SW19 4JZ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442082966714",
+    "display_phone": "+44 20 8296 6714",
+    "distance": 11549.614523384507
+  },
+  {
+    "id": "9jaC7k1KJnJI61wVgkFlOg",
+    "alias": "vivid-reality-london",
+    "name": "Vivid Reality",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/vFHtQ7GnHMZYS-pz1ILjAw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/vivid-reality-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "virtualrealitycenters",
+        "title": "Virtual Reality Centers"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "desserts",
+        "title": "Desserts"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.54831,
+      "longitude": -0.04337
+    },
+    "transactions": [],
+    "location": {
+      "address1": "174 Homerton High Street",
+      "address2": "",
+      "address3": "Homerton",
+      "city": "London",
+      "zip_code": "E9 6AG",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "174 Homerton High Street",
+        "Homerton",
+        "London E9 6AG",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442085333811",
+    "display_phone": "+44 20 8533 3811",
+    "distance": 7520.344128529755
+  },
+  {
+    "id": "4Yn_de3DdLzpJeuP-_EiNg",
+    "alias": "hash-green-london",
+    "name": "Hash Green",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/6sauSFbnk86RMcL4bHZL8A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/hash-green-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.5424022807133,
+      "longitude": -0.148384165845528
+    },
+    "transactions": [],
+    "location": {
+      "address1": "Camden Stables Market",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "NW1 8AH",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Camden Stables Market",
+        "London NW1 8AH",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447387942796",
+    "display_phone": "+44 7387 942796",
+    "distance": 3387.068731575775
+  },
+  {
+    "id": "91odM1rE0U5-fpCZDrEZkg",
+    "alias": "blanche-eatery-london",
+    "name": "Blanche Eatery",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/n5l5Xi4IcVr6BJfjpUckyQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/blanche-eatery-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 10,
+    "categories": [
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      },
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 51.493307508051,
+      "longitude": -0.22564834261147
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "13 Beadon Road",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W6 0EA",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "13 Beadon Road",
+        "London W6 0EA",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442087412888",
+    "display_phone": "+44 20 8741 2888",
+    "distance": 6579.148472340986
+  },
+  {
+    "id": "EQdG2YIAtRdb_T2r62Qt4Q",
+    "alias": "pret-a-manger-london-37",
+    "name": "Pret A Manger",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/M63wuqTxrbsCvDb1uuk40A/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/pret-a-manger-london-37?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 4,
+    "categories": [
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      },
+      {
+        "alias": "sandwiches",
+        "title": "Sandwiches"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.517267,
+      "longitude": -0.082333
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "19-20 Liverpool Street",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "EC2M 7PD",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "19-20 Liverpool Street",
+        "London EC2M 7PD",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442079325267",
+    "display_phone": "+44 20 7932 5267",
+    "distance": 3731.2377070651582
+  },
+  {
+    "id": "L4cUW6MZgJo8pgAak0aiAg",
+    "alias": "cookies-and-scream-london-2",
+    "name": "Cookies and Scream",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/_U6b6pn3CrwZbzCCw2DS0Q/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/cookies-and-scream-london-2?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 6,
+    "categories": [
+      {
+        "alias": "desserts",
+        "title": "Desserts"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "milkshakebars",
+        "title": "Milkshake Bars"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5505591030444,
+      "longitude": -0.109157525002956
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "130 Holloway Road",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "N7 8JE",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "130 Holloway Road",
+        "London N7 8JE",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 4576.443201768576
+  },
+  {
+    "id": "_z4FlRPzHe9fjnSOqF5Bsw",
+    "alias": "the-cure-london",
+    "name": "The Cure",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-cure-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "juicebars",
+        "title": "Juice Bars & Smoothies"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.4550675,
+      "longitude": -0.1106825
+    },
+    "transactions": [],
+    "location": {
+      "address1": "68 Brixton Water Lane",
+      "address2": null,
+      "address3": null,
+      "city": "London",
+      "zip_code": "SW2 1QB",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "68 Brixton Water Lane",
+        "London SW2 1QB",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442072743777",
+    "display_phone": "+44 20 7274 3777",
+    "distance": 6641.027675772169
+  },
+  {
+    "id": "l2iew1M7CNjATHuPHd3W5Q",
+    "alias": "paradise-plantbased-london",
+    "name": "Paradise Plantbased",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/paradise-plantbased-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.5333118155913,
+      "longitude": -0.218247659504414
+    },
+    "transactions": [],
+    "location": {
+      "address1": "59 Chamberlayne Road",
+      "address2": "Kensal Green",
+      "address3": null,
+      "city": "London",
+      "zip_code": "NW10 3ND",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "59 Chamberlayne Road",
+        "Kensal Green",
+        "London NW10 3ND",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 6126.217295967435
+  },
+  {
+    "id": "IYMz1hwwKJxO8DzwXB3G2A",
+    "alias": "darcys-london-4",
+    "name": "Darcy's",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/B_mmcUQ_1bPdj01SKpO7xQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/darcys-london-4?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "caribbean",
+        "title": "Caribbean"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.5582117840147,
+      "longitude": -0.118454635386927
+    },
+    "transactions": [],
+    "location": {
+      "address1": "Unit 8",
+      "address2": "22 Seven Sisters Road",
+      "address3": "Nags Head Market",
+      "city": "London",
+      "zip_code": "N7 6AG",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Unit 8",
+        "22 Seven Sisters Road",
+        "Nags Head Market",
+        "London N7 6AG",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447756543285",
+    "display_phone": "+44 7756 543285",
+    "distance": 5178.310733150935
+  },
+  {
+    "id": "h8eWPB-TQ-CJ5rTWt7WVvw",
+    "alias": "nama-artisan-raw-foods-london",
+    "name": "Nama Artisan Raw Foods",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/HwBcQJmkOotCNLe1sZIGvw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/nama-artisan-raw-foods-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 9,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "raw_food",
+        "title": "Live/Raw Food"
+      },
+      {
+        "alias": "breakfast_brunch",
+        "title": "Breakfast & Brunch"
+      }
+    ],
+    "rating": 4.5,
+    "coordinates": {
+      "latitude": 51.5168523449785,
+      "longitude": -0.200339577240158
+    },
+    "transactions": [],
+    "price": "£££",
+    "location": {
+      "address1": "110 Talbot Road",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W11 1JR",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "110 Talbot Road",
+        "London W11 1JR",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442073134638",
+    "display_phone": "+44 20 7313 4638",
+    "distance": 4474.9130203168925
+  },
+  {
+    "id": "4qut5FFQMN2PW-3cQ9PblA",
+    "alias": "leon-high-street-kensington-london",
+    "name": "Leon - High Street Kensington",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/AkDICOjGRFTYHqkt7BYKuw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/leon-high-street-kensington-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 4,
+    "categories": [
+      {
+        "alias": "hotdogs",
+        "title": "Fast Food"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "mediterranean",
+        "title": "Mediterranean"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 51.500999,
+      "longitude": -0.1927406
+    },
+    "transactions": [],
+    "price": "£",
+    "location": {
+      "address1": "Unit 8",
+      "address2": "The Kensington Arcade",
+      "address3": "Kensington High Street",
+      "city": "London",
+      "zip_code": "W8 5SF",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Unit 8",
+        "The Kensington Arcade",
+        "Kensington High Street",
+        "London W8 5SF",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442079371736",
+    "display_phone": "+44 20 7937 1736",
+    "distance": 4146.68430119995
+  },
+  {
+    "id": "VPvWHwTBAhKymCkcwuehWQ",
+    "alias": "karamel-restaurant-london",
+    "name": "Karamel Restaurant",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/-GlS42wOKGjQnXCku9dQeQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/karamel-restaurant-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 4,
+    "categories": [
+      {
+        "alias": "modern_european",
+        "title": "Modern European"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "musicvenues",
+        "title": "Music Venues"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 51.5940154361274,
+      "longitude": -0.113058354561645
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "4 Coburg Road",
+      "address2": "Wood Green",
+      "address3": null,
+      "city": "London",
+      "zip_code": "N22 6UJ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "4 Coburg Road",
+        "Wood Green",
+        "London N22 6UJ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442031468775",
+    "display_phone": "+44 20 3146 8775",
+    "distance": 9153.853896647839
+  },
+  {
+    "id": "KujL202HXDB4-Z4-EHsbHw",
+    "alias": "açai-sisters-london",
+    "name": "Açai Sisters",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/DYYMyEwpTUWRX9quGtpKjQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/a%C3%A7ai-sisters-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.5152397155762,
+      "longitude": -0.146358996629715
+    },
+    "transactions": [],
+    "location": {
+      "address1": "3rd Floor",
+      "address2": "House of Fraser",
+      "address3": "318 Oxford Street",
+      "city": "London",
+      "zip_code": "W1C 1HF",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "3rd Floor",
+        "House of Fraser",
+        "318 Oxford Street",
+        "London W1C 1HF",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 745.4478441344264
+  },
+  {
+    "id": "tceGlSUXxE39OVAzO866Gw",
+    "alias": "vegan-express-london",
+    "name": "Vegan Express",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/0J1haHWCYBxPHLTIKr8_sg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/vegan-express-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.431641,
+      "longitude": -0.17595
+    },
+    "transactions": [],
+    "location": {
+      "address1": "913 Garratt Lane",
+      "address2": null,
+      "address3": "",
+      "city": "London",
+      "zip_code": "SW17 0LT",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "913 Garratt Lane",
+        "London SW17 0LT",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442081276560",
+    "display_phone": "+44 20 8127 6560",
+    "distance": 9460.484162818262
+  },
+  {
+    "id": "l-oh5A-uSwLeZEHw-6ryHg",
+    "alias": "marees-sauces-and-food-london",
+    "name": "Marees Sauces and Food",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/ZnJMeAD93oP6Aa4Ldi5hDA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/marees-sauces-and-food-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 5,
+    "coordinates": {
+      "latitude": 51.51578,
+      "longitude": -0.07097
+    },
+    "transactions": [],
+    "location": {
+      "address1": "91 whitechapel high st",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "E1 7RA",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "91 whitechapel high st",
+        "London E1 7RA",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442072470900",
+    "display_phone": "+44 20 7247 0900",
+    "distance": 4510.791866210879
+  },
+  {
+    "id": "4tSStYQI9bLFDOqwxmFJdA",
+    "alias": "wicked-vegan-london",
+    "name": "Wicked Vegan",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/i53DmjK7Zx5ADPo1Y9_00Q/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/wicked-vegan-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.4444,
+      "longitude": -0.15119
+    },
+    "transactions": [],
+    "location": {
+      "address1": "14 Hildreth Street",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "SW12 9RQ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "14 Hildreth Street",
+        "London SW12 9RQ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442086734163",
+    "display_phone": "+44 20 8673 4163",
+    "distance": 7694.085424560103
+  },
+  {
+    "id": "dcvcyZ8sL5UCU3umSUJzlg",
+    "alias": "the-juice-unit-london",
+    "name": "The Juice Unit",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/the-juice-unit-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "juicebars",
+        "title": "Juice Bars & Smoothies"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "coffee",
+        "title": "Coffee & Tea"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.4641891,
+      "longitude": -0.1147688
+    },
+    "transactions": [],
+    "location": {
+      "address1": "422 Brixton road",
+      "address2": null,
+      "address3": "",
+      "city": "London",
+      "zip_code": "SW9 7AY",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "422 Brixton road",
+        "London SW9 7AY",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447515832485",
+    "display_phone": "+44 7515 832485",
+    "distance": 5618.970323850394
+  },
+  {
+    "id": "9YWc8yP2FI1TiYSQNIliUw",
+    "alias": "foxy-stoat-of-hackney-london",
+    "name": "Foxy Stoat of Hackney",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/OrIPa2W-L-vdN3uyP5tdgA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/foxy-stoat-of-hackney-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.5326309401132,
+      "longitude": -0.0604308258727997
+    },
+    "transactions": [],
+    "location": {
+      "address1": "Containerville",
+      "address2": "Hackney Road",
+      "address3": "",
+      "city": "London",
+      "zip_code": "E2 9FP",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Containerville",
+        "Hackney Road",
+        "London E2 9FP",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447493701272",
+    "display_phone": "+44 7493 701272",
+    "distance": 5667.059683056795
+  },
+  {
+    "id": "FSvy4c7Dsb5E3u49Le52iQ",
+    "alias": "jenny-wren-canal-cruises-london",
+    "name": "Jenny Wren Canal Cruises",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/KxQO8H7c5PWCm8WvlmUMnA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/jenny-wren-canal-cruises-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "boating",
+        "title": "Boating"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "icecream",
+        "title": "Ice Cream & Frozen Yogurt"
+      }
+    ],
+    "rating": 3,
+    "coordinates": {
+      "latitude": 51.5412947787561,
+      "longitude": -0.144739548760392
+    },
+    "transactions": [],
+    "location": {
+      "address1": "250 Camden High Street",
+      "address2": null,
+      "address3": null,
+      "city": "London",
+      "zip_code": "NW1 8QS",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "250 Camden High Street",
+        "London NW1 8QS",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442074854433",
+    "display_phone": "+44 20 7485 4433",
+    "distance": 3211.107088173853
+  },
+  {
+    "id": "6-S2PWf6WOi6kXwew2NvEw",
+    "alias": "spicebox-london-2",
+    "name": "SpiceBox",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/spicebox-london-2?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "indpak",
+        "title": "Indian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.5893481,
+      "longitude": -0.0192342
+    },
+    "transactions": [],
+    "location": {
+      "address1": "58 Hoe Street",
+      "address2": "Walthamstow",
+      "address3": "",
+      "city": "London",
+      "zip_code": "E17 4PG",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "58 Hoe Street",
+        "Walthamstow",
+        "London E17 4PG",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442085210906",
+    "display_phone": "+44 20 8521 0906",
+    "distance": 11719.00663413168
+  },
+  {
+    "id": "Gg6SWrwtrDxJtx2kHYnnkQ",
+    "alias": "paolino-fit-pasta-london",
+    "name": "Paolino - Fit Pasta",
+    "image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/byaU0iWoXDbCz8KWrkuoNQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/paolino-fit-pasta-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "streetvendors",
+        "title": "Street Vendors"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.5247549,
+      "longitude": -0.2016881
+    },
+    "transactions": [],
+    "location": {
+      "address1": "2-4 Fernhead Road",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "W9 3ET",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "2-4 Fernhead Road",
+        "London W9 3ET",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447899643959",
+    "display_phone": "+44 7899 643959",
+    "distance": 4732.726447142014
+  },
+  {
+    "id": "3oWNZdIFOWwj2rjl_YNYpg",
+    "alias": "loving-hut-edgware",
+    "name": "Loving Hut",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/8nN0JVESCuR91C8xqmYIMw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/loving-hut-edgware?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 3,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "thai",
+        "title": "Thai"
+      }
+    ],
+    "rating": 3.5,
+    "coordinates": {
+      "latitude": 51.615165,
+      "longitude": -0.27544
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "236 Station Road",
+      "address2": "",
+      "address3": "",
+      "city": "Edgware",
+      "zip_code": "HA8 7AU",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "236 Station Road",
+        "Edgware HA8 7AU",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442089053033",
+    "display_phone": "+44 20 8905 3033",
+    "distance": 14904.60285728407
+  },
+  {
+    "id": "Lrw-7oLF9MZpw2wr-V-YtQ",
+    "alias": "heaven-canal-cafe-london",
+    "name": "Heaven Canal Cafe",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/e9vbacpl55wps3NlsJ9aQw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/heaven-canal-cafe-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "juicebars",
+        "title": "Juice Bars & Smoothies"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "cafes",
+        "title": "Cafes"
+      }
+    ],
+    "rating": 2,
+    "coordinates": {
+      "latitude": 51.5412853,
+      "longitude": -0.1447429
+    },
+    "transactions": [],
+    "location": {
+      "address1": "250 Camden High Street",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "NW1 8QS",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "250 Camden High Street",
+        "London NW1 8QS",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442074824132",
+    "display_phone": "+44 20 7482 4132",
+    "distance": 3210.4862035650913
+  },
+  {
+    "id": "Y66x8j3ii8NEL1mzdpayBQ",
+    "alias": "tai-buffet-london-5",
+    "name": "tai buffet",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/tai-buffet-london-5?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 2,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "asianfusion",
+        "title": "Asian Fusion"
+      }
+    ],
+    "rating": 3,
+    "coordinates": {
+      "latitude": 51.5427627,
+      "longitude": -0.141843
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "kentish town road",
+      "address2": "Camden",
+      "address3": null,
+      "city": "London",
+      "zip_code": "NW1 9NX",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "kentish town road",
+        "Camden",
+        "London NW1 9NX",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+44202844004",
+    "display_phone": "+44 202844004",
+    "distance": 3341.3346139701766
+  },
+  {
+    "id": "HCvWWaEchLr13EJXAPZRIQ",
+    "alias": "oliveira-kitchen-modern-vegetarian-restaurant-london",
+    "name": "Oliveira Kitchen - Modern Vegetarian Restaurant",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Fk2Gz5NQUlmgGuJZZbmClg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/oliveira-kitchen-modern-vegetarian-restaurant-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "modern_european",
+        "title": "Modern European"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.52551,
+      "longitude": -0.08377
+    },
+    "transactions": [],
+    "location": {
+      "address1": "80 Paul Street",
+      "address2": null,
+      "address3": null,
+      "city": "London",
+      "zip_code": "EC2A 4NE",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "80 Paul Street",
+        "London EC2A 4NE",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442077290481",
+    "display_phone": "+44 20 7729 0481",
+    "distance": 3885.0692104574377
+  },
+  {
+    "id": "7NeXiFYsArbjI4UBfgAqiw",
+    "alias": "get-juiced-london",
+    "name": "Get Juiced",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/1H5t1Pn6CkjdxYIaedrkfA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/get-juiced-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 1,
+    "categories": [
+      {
+        "alias": "raw_food",
+        "title": "Live/Raw Food"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "juicebars",
+        "title": "Juice Bars & Smoothies"
+      }
+    ],
+    "rating": 4,
+    "coordinates": {
+      "latitude": 51.429158,
+      "longitude": -0.166095
+    },
+    "transactions": [],
+    "location": {
+      "address1": "Tooting Market",
+      "address2": "21-23 Tooting High street",
+      "address3": "",
+      "city": "London",
+      "zip_code": "SW17 0SN",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Tooting Market",
+        "21-23 Tooting High street",
+        "London SW17 0SN",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447840035299",
+    "display_phone": "+44 7840 035299",
+    "distance": 9574.07066609805
+  },
+  {
+    "id": "Bn3EPgrHwPQeApJfD1WDRA",
+    "alias": "supplant-bistro-and-bar-london",
+    "name": "Supplant Bistro & Bar",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/M2lYou-_2LXYzhAJfpxfrA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/supplant-bistro-and-bar-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.58073,
+      "longitude": -0.12504
+    },
+    "transactions": [],
+    "location": {
+      "address1": "23 Park Road",
+      "address2": "Crouch End",
+      "address3": "",
+      "city": "London",
+      "zip_code": "N8 8TE",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "23 Park Road",
+        "Crouch End",
+        "London N8 8TE",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447540155343",
+    "display_phone": "+44 7540 155343",
+    "distance": 7573.956222434152
+  },
+  {
+    "id": "1WXUjWGpvsgU3KJova376g",
+    "alias": "eat-chay-vegan-vietnamese-london",
+    "name": "Eat Chay Vegan Vietnamese",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/qGjbYcgMbi1rzPs8zeF4pA/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/eat-chay-vegan-vietnamese-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vietnamese",
+        "title": "Vietnamese"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "korean",
+        "title": "Korean"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.523462420658,
+      "longitude": -0.0762425717904981
+    },
+    "transactions": [],
+    "location": {
+      "address1": "152 Brick Lane",
+      "address2": "London",
+      "address3": null,
+      "city": "London",
+      "zip_code": "E1 5EG",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "152 Brick Lane",
+        "London",
+        "London E1 5EG",
+        "United Kingdom"
+      ]
+    },
+    "phone": "",
+    "display_phone": "",
+    "distance": 4295.812423409164
+  },
+  {
+    "id": "m4-Hc7gI5q5BlVI5ZS2yqQ",
+    "alias": "yorica-london-5",
+    "name": "Yorica",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/yorica-london-5?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "icecream",
+        "title": "Ice Cream & Frozen Yogurt"
+      },
+      {
+        "alias": "desserts",
+        "title": "Desserts"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.515622,
+      "longitude": -0.205736
+    },
+    "transactions": [],
+    "location": {
+      "address1": "196 Kensington Park Road",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "W11 2ES",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "196 Kensington Park Road",
+        "London W11 2ES",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442031468492",
+    "display_phone": "+44 20 3146 8492",
+    "distance": 4836.388491183968
+  },
+  {
+    "id": "kFZUUC4oqhZCD98KsNsYZg",
+    "alias": "pomodoro-e-basilico-london",
+    "name": "Pomodoro E Basilico",
+    "image_url": "https://s3-media1.fl.yelpcdn.com/bphoto/2fXyNYDJctYa-VG8mL4_Tw/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/pomodoro-e-basilico-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "diyfood",
+        "title": "Do-It-Yourself Food"
+      },
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.5328077,
+      "longitude": -0.2087424
+    },
+    "transactions": [],
+    "location": {
+      "address1": "7 Lothrop Street",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "W10 4JB",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "7 Lothrop Street",
+        "London W10 4JB",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447866194403",
+    "display_phone": "+44 7866 194403",
+    "distance": 5497.839662758162
+  },
+  {
+    "id": "cMD6fIXFxoSKbj-z53A_Jg",
+    "alias": "woodlands-london-2",
+    "name": "Woodlands",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/DFZ_nGHHL6pFUnYPmvZeIg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/woodlands-london-2?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 10,
+    "categories": [
+      {
+        "alias": "indpak",
+        "title": "Indian"
+      },
+      {
+        "alias": "vegetarian",
+        "title": "Vegetarian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 3,
+    "coordinates": {
+      "latitude": 51.5587587,
+      "longitude": -0.1783502
+    },
+    "transactions": [],
+    "price": "££",
+    "location": {
+      "address1": "102 Heath Street",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "NW3 1DR",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "102 Heath Street",
+        "London NW3 1DR",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442077943080",
+    "display_phone": "+44 20 7794 3080",
+    "distance": 5881.230378627808
+  },
+  {
+    "id": "JTVPuhWRBVBPg5LYnIp0Fg",
+    "alias": "global-fusion-london",
+    "name": "Global Fusion",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/Ns62O7rZ2nbhthyL0-y4LQ/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/global-fusion-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "cajun",
+        "title": "Cajun/Creole"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "bakeries",
+        "title": "Bakeries"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.5056105679136,
+      "longitude": -0.116053819656372
+    },
+    "transactions": [],
+    "location": {
+      "address1": "The Real Food Market at Southbank",
+      "address2": "",
+      "address3": "",
+      "city": "London",
+      "zip_code": "SE1 8XX",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "The Real Food Market at Southbank",
+        "London SE1 8XX",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442082524066",
+    "display_phone": "+44 20 8252 4066",
+    "distance": 1601.486852304921
+  },
+  {
+    "id": "s0n1zvTKK1UsRIR9SUO4Lw",
+    "alias": "antonios-kitchen-london",
+    "name": "Antonio's Kitchen",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/antonios-kitchen-london?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "italian",
+        "title": "Italian"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.5304737,
+      "longitude": -0.0565209
+    },
+    "transactions": [],
+    "location": {
+      "address1": "393 Cambridge Heath Road",
+      "address2": "",
+      "address3": null,
+      "city": "London",
+      "zip_code": "E2 9RA",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "393 Cambridge Heath Road",
+        "London E2 9RA",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442033059029",
+    "display_phone": "+44 20 3305 9029",
+    "distance": 5831.089105208195
+  },
+  {
+    "id": "ViWkKnK_iF32nYRxpC9ESA",
+    "alias": "pulse-juice-bar-hammersmith",
+    "name": "Pulse Juice Bar",
+    "image_url": "https://s3-media2.fl.yelpcdn.com/bphoto/U4Dup7-Vm9Hxn-hYC_T2Tg/o.jpg",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/pulse-juice-bar-hammersmith?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "juicebars",
+        "title": "Juice Bars & Smoothies"
+      },
+      {
+        "alias": "salad",
+        "title": "Salad"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.4915475,
+      "longitude": -0.2241517
+    },
+    "transactions": [],
+    "location": {
+      "address1": "Hammersmith Station",
+      "address2": "",
+      "address3": "",
+      "city": "Hammersmith",
+      "zip_code": "W6 9YE",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "Hammersmith Station",
+        "Hammersmith W6 9YE",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+447438609747",
+    "display_phone": "+44 7438 609747",
+    "distance": 6550.117324495428
+  },
+  {
+    "id": "RN-5O8Gw5moXkA5SQfohKg",
+    "alias": "health-and-pastry-brixton",
+    "name": "Health & Pastry",
+    "image_url": "",
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/health-and-pastry-brixton?adjust_creative=klOq9a2r7oeLxD3CNIOMUA&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=klOq9a2r7oeLxD3CNIOMUA",
+    "review_count": 0,
+    "categories": [
+      {
+        "alias": "cakeshop",
+        "title": "Patisserie/Cake Shop"
+      },
+      {
+        "alias": "vegan",
+        "title": "Vegan"
+      },
+      {
+        "alias": "gluten_free",
+        "title": "Gluten-Free"
+      }
+    ],
+    "rating": 0,
+    "coordinates": {
+      "latitude": 51.4542905713885,
+      "longitude": -0.113105248479428
+    },
+    "transactions": [],
+    "location": {
+      "address1": "31 Tulse Hill",
+      "address2": "",
+      "address3": null,
+      "city": "Brixton",
+      "zip_code": "SW2 2TJ",
+      "country": "GB",
+      "state": "XGL",
+      "display_address": [
+        "31 Tulse Hill",
+        "Brixton SW2 2TJ",
+        "United Kingdom"
+      ]
+    },
+    "phone": "+442036438038",
+    "display_phone": "+44 20 3643 8038",
+    "distance": 6710.616621494212
+  }
+]
