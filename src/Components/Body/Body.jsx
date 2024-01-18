@@ -58,26 +58,28 @@ const Body = () => {
   };
   return (
     <div className="bodyClass min-h-screen flex items-center justify-center bg-bodyBg ">
-      <div className=" bg-bodyBg w-full p-12 ">
+      <div className=" bg-bodyBg  p-12 ">
         {/* Title Section */}
-        <div className="flex items-center justify-between mt-8">
-          <div className="title">
-            <h1 className="text-[35px] text-titleColor tracking[1px] font-extrabold">
-              Find the best Vegan place...
-            </h1>
-            {/*<span className="text-[18px] opacity-70">
+        <div>
+          <div className="flex items-center justify-between mt-8">
+            <div className="title">
+              <h1 className="text-[35px] text-titleColor tracking[1px] font-extrabold">
+                Find the best Vegan place...
+              </h1>
+              {/*<span className="text-[18px] opacity-70">
             <strong>+350 Vegan restaurants,</strong> the choice is yours
           </span>*/}
-          </div>
-          <div className="flex items-center justify-between">
-            <div className="specials px-4 text-center border-r-2">
-              <h3 className="text-[20px] font-bold text-titleColor">95</h3>
-              <small className="text-[16px] opacity-70">Specials</small>
             </div>
+            <div className="flex items-center justify-between">
+              <div className="specials px-4 text-center border-r-2">
+                <h3 className="text-[20px] font-bold text-titleColor">95</h3>
+                <small className="text-[16px] opacity-70">Specials</small>
+              </div>
 
-            <div className="deliveries px-4 text-center border-r-2">
-              <h3 className="text-[20px] font-bold text-titleColor">82</h3>
-              <small className="text-[16px] opacity-70">Deliveries</small>
+              <div className="deliveries px-4 text-center border-r-2">
+                <h3 className="text-[20px] font-bold text-titleColor">82</h3>
+                <small className="text-[16px] opacity-70">Deliveries</small>
+              </div>
             </div>
           </div>
         </div>

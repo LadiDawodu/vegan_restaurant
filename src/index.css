@@ -24,13 +24,28 @@ html {
   padding: 0;
 }
 
-.bodyClass {
-  margin-top: 6rem;
-  margin-right: 25rem;
+.fullPage {
+  margin-right: 3rem;
 }
 
 .filterPage {
-  margin-right: 22rem;
+  position: fixed;
+  top: 25.5em; /* Adjust as needed */
+
+  width: 100%;
+
+  /* Ensure it appears above other content */
+  transition: top 0.3s ease-in-out;
+}
+
+/* .bodyClass {
+  margin-top: 6rem;
+  margin-right: 25rem;
+} */
+
+.bodyContent {
+  margin-right: 25rem;
+  margin-left: 30rem;
 }
 
 .nav {
@@ -38,8 +53,8 @@ html {
   left: 0;
   right: 0;
   width: 100%;
-  z-index: 1000;
-  position: fixed;
+  z-index: 100;
+  position: sticky;
 }
 
 .with-box-shadow {
