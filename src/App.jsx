@@ -37,26 +37,29 @@ function App() {
 
   return (
     <Router>
-      <div className="flex items-center justify-center">
+      <div className="flex flex-col">
         <Navbar authenticated={authenticated} />
 
-        <FilterPage />
+        <div className="fullPage flex flex-row ">
+          <FilterPage />
+          <div className="bodyContent flex flex-col">
+            <Routes>
+              <Route path="/" element={<Container />}>
+                {/* Nested routes */}
+                <Route index element={<Body authenticated={authenticated} />} />
 
-        <Routes>
-          <Route path="/" element={<Container />}>
-            {/* Nested routes */}
-            <Route index element={<Body authenticated={authenticated} />} />
-
-            <Route
-              path="/menu"
-              element={
-                authenticated !== undefined && (
-                  <SideMenu authenticated={authenticated} />
-                )
-              }
-            />
-          </Route>
-        </Routes>
+                <Route
+                  path="/menu"
+                  element={
+                    authenticated !== undefined && (
+                      <SideMenu authenticated={authenticated} />
+                    )
+                  }
+                />
+              </Route>
+            </Routes>
+          </div>
+        </div>
       </div>
     </Router>
   );

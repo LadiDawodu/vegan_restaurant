@@ -40,8 +40,11 @@ const fetchData = async () => {
       lastUpdateTime = currentTime;
 
       const jsonData = JSON.stringify(allBusinesses, null, 2);
-      fs.writeFileSync("./src/json/restaurant.json", jsonData);
-      console.log(`Restaurant data saved to "restaurants.json" file.`);
+      fs.writeFileSync(
+        "/Users/ladi./Developer/vegan_restaurants/src/json/restaurant.json",
+        jsonData
+      );
+      console.log(`Restaurant data saved to "restaurant.json" file.`);
     } else {
       console.log("Date is up-to-date. No need to fetch");
     }
